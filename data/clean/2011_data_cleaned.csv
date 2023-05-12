@@ -1,0 +1,1895 @@
+fecha_hecho,sexo,edad,arma_medio,nombre_barrio,codigo_barrio,codigo_comuna
+2011-01-01 13:00:00-05:00,Hombre,42,Arma de fuego,Facultad de Minas U. Nal,#Inst_5,7
+2011-01-02 23:00:00-05:00,Mujer,22,No,Barrio Colón,#1013,10
+2011-01-02 17:20:00-05:00,Mujer,33,No,Caribe,#0517,5
+2011-01-03 10:50:00-05:00,Mujer,51,No,Villa Carlota,#1403,14
+2011-01-03 14:25:00-05:00,Mujer,50,No,La Candelaria,#1019,10
+2011-01-04 19:30:00-05:00,Mujer,37,No,La Candelaria,#1019,10
+2011-01-04 11:20:00-05:00,Hombre,39,Arma de fuego,Jesús Nazareno,#1003,10
+2011-01-04 17:30:00-05:00,Mujer,25,No,Tenche,#1502,15
+2011-01-04 21:00:00-05:00,Mujer,25,Objeto contundente,Cementerio Universal,#Inst_3,5
+2011-01-05 04:30:00-05:00,Mujer,36,No,María Cano-Carambolas,#0313,3
+2011-01-05 13:50:00-05:00,Hombre,33,Arma de fuego,El Chagualo,#1004,10
+2011-01-05 17:20:00-05:00,Mujer,27,No,San Germán,#0703,7
+2011-01-06 04:00:00-05:00,Hombre,40,No,Corazón de Jesús,#1008,10
+2011-01-06 21:00:00-05:00,Hombre,30,No,La Candelaria,#1019,10
+2011-01-06 22:30:00-05:00,Hombre,45,Arma cortopunzante,Sin dato,SIN DATO,SIN DATO
+2011-01-06 10:30:00-05:00,Sin dato,-1,Arma de fuego,Guayabal,#1510,15
+2011-01-07 09:00:00-05:00,Hombre,29,Objeto contundente,Barrio Colombia,#1401,14
+2011-01-07 20:55:00-05:00,Hombre,32,Arma cortopunzante,Perpetuo Socorro,#1012,10
+2011-01-07 02:00:00-05:00,Hombre,56,Arma cortopunzante,Belén,#1603,16
+2011-01-07 22:40:00-05:00,Mujer,16,No,Perpetuo Socorro,#1012,10
+2011-01-08 16:45:00-05:00,Hombre,50,No,La Candelaria,#1019,10
+2011-01-09 13:30:00-05:00,Hombre,32,Arma de fuego,El Pomar,#0306,3
+2011-01-09 04:00:00-05:00,Hombre,26,Arma de fuego,Sevilla,#0407,4
+2011-01-09 21:30:00-05:00,Hombre,32,Arma cortopunzante,San Joaquín,#1104,11
+2011-01-09 04:00:00-05:00,Hombre,26,Arma de fuego,Sevilla,#0407,4
+2011-01-09 21:30:00-05:00,Hombre,32,Arma cortopunzante,San Joaquín,#1104,11
+2011-01-11 20:30:00-05:00,Hombre,21,Arma cortopunzante,Barrio Colombia,#1401,14
+2011-01-12 08:30:00-05:00,Hombre,32,No,La Candelaria,#1019,10
+2011-01-12 11:55:00-05:00,Hombre,46,Arma de fuego,La Palma,#1614,16
+2011-01-12 17:55:00-05:00,Mujer,36,No,La Candelaria,#1019,10
+2011-01-12 18:45:00-05:00,Mujer,27,No,Caribe,#0517,5
+2011-01-12 18:45:00-05:00,Mujer,27,No,Caribe,#0517,5
+2011-01-12 18:45:00-05:00,Mujer,27,No,Caribe,#0517,5
+2011-01-13 04:40:00-05:00,Mujer,25,No,Boston,#1016,10
+2011-01-13 16:00:00-05:00,Mujer,17,No,Boston,#1016,10
+2011-01-13 08:25:00-05:00,Hombre,16,No,Los Conquistadores,#1105,11
+2011-01-13 16:50:00-05:00,Hombre,43,No,La Candelaria,#1019,10
+2011-01-14 11:20:00-05:00,Mujer,42,Sin dato,Villa Hermosa,#0801,8
+2011-01-14 10:30:00-05:00,Hombre,15,No,Jardín Botánico,#Inst_10,4
+2011-01-14 13:30:00-05:00,Hombre,53,Sin dato,Bello Horizonte,#0714,7
+2011-01-14 10:00:00-05:00,Hombre,26,Sin dato,Belén,#1603,16
+2011-01-15 18:15:00-05:00,Mujer,35,No,San Diego,#1020,10
+2011-01-15 13:40:00-05:00,Hombre,36,Arma de fuego,San Joaquín,#1104,11
+2011-01-15 13:30:00-05:00,Hombre,17,No,Estadio,#1113,11
+2011-01-15 13:40:00-05:00,Hombre,36,Arma de fuego,San Joaquín,#1104,11
+2011-01-15 13:30:00-05:00,Hombre,17,No,Estadio,#1113,11
+2011-01-16 09:40:00-05:00,Mujer,35,Arma cortopunzante,Boston,#1016,10
+2011-01-16 08:15:00-05:00,Hombre,53,Arma de fuego,San Lucas,#1412,14
+2011-01-17 10:30:00-05:00,Mujer,65,No,Patio Bonito,#1421,14
+2011-01-17 15:10:00-05:00,Mujer,78,Arma de fuego,Calle Nueva,#1011,10
+2011-01-17 15:30:00-05:00,Mujer,23,No,La Candelaria,#1019,10
+2011-01-17 15:10:00-05:00,Mujer,78,Arma de fuego,Calle Nueva,#1011,10
+2011-01-17 15:10:00-05:00,Mujer,78,Arma de fuego,Calle Nueva,#1011,10
+2011-01-18 21:00:00-05:00,Hombre,25,Arma cortopunzante,Prado,#1001,10
+2011-01-18 20:21:00-05:00,Hombre,40,Arma cortopunzante,Hospital San Vicente de Paúl,#Inst_12,10
+2011-01-18 18:00:00-05:00,Mujer,57,No,El Corazón,#1313,13
+2011-01-18 21:20:00-05:00,Mujer,34,No,Los Balsos No.1,#1411,14
+2011-01-19 16:45:00-05:00,Hombre,39,Arma de fuego,Campo Amor,#1507,15
+2011-01-19 17:55:00-05:00,Mujer,57,Arma cortopunzante,Campo Valdés No.1,#0410,4
+2011-01-19 10:40:00-05:00,Mujer,31,No,San Miguel,#0803,8
+2011-01-19 19:00:00-05:00,Hombre,36,No,Trinidad,#1503,15
+2011-01-19 09:00:00-05:00,Mujer,39,No,Manrique Central No.1,#0409,4
+2011-01-20 11:40:00-05:00,Mujer,67,Arma cortopunzante,Palenque,#0716,7
+2011-01-20 11:40:00-05:00,Mujer,18,No,La Candelaria,#1019,10
+2011-01-20 16:40:00-05:00,Mujer,42,Arma cortopunzante,Tenche,#1502,15
+2011-01-20 00:30:00-05:00,Mujer,29,No,Perpetuo Socorro,#1012,10
+2011-01-20 16:30:00-05:00,Hombre,29,Arma de fuego,La Mansión,#0802,8
+2011-01-20 14:00:00-05:00,Mujer,40,No,La Candelaria,#1019,10
+2011-01-20 10:20:00-05:00,Mujer,24,Arma cortopunzante,Alfonso López,#0514,5
+2011-01-20 00:35:00-05:00,Hombre,22,Arma cortopunzante,El Poblado,#1418,14
+2011-01-20 10:20:00-05:00,Mujer,24,Arma cortopunzante,Alfonso López,#0514,5
+2011-01-21 07:00:00-05:00,Hombre,43,Arma de fuego,Popular,#0103,1
+2011-01-21 17:30:00-05:00,Hombre,27,Arma de fuego,La Candelaria,#1019,10
+2011-01-21 20:00:00-05:00,Hombre,51,Arma de fuego,Villa Carlota,#1403,14
+2011-01-21 14:00:00-05:00,Hombre,41,Sin dato,Patio Bonito,#1421,14
+2011-01-21 18:50:00-05:00,Hombre,61,Arma de fuego,San Bernardo,#1605,16
+2011-01-21 17:20:00-05:00,Hombre,52,Sin dato,El Poblado,#1418,14
+2011-01-21 07:00:00-05:00,Hombre,43,Arma de fuego,Popular,#0103,1
+2011-01-21 20:00:00-05:00,Hombre,51,Arma de fuego,Villa Carlota,#1403,14
+2011-01-21 17:20:00-05:00,Hombre,52,Sin dato,El Poblado,#1418,14
+2011-01-22 12:00:00-05:00,Mujer,46,No,Santo Domingo Savio No.1,#0101,1
+2011-01-22 18:25:00-05:00,Hombre,50,No,La Candelaria,#1019,10
+2011-01-22 01:10:00-05:00,Hombre,30,No,San Germán,#0703,7
+2011-01-22 15:18:00-05:00,Mujer,44,No,Nuevos Conquistadores,#1315,13
+2011-01-22 14:30:00-05:00,Mujer,39,Sin dato,Los Balsos No.2,#1415,14
+2011-01-22 21:45:00-05:00,Hombre,32,Arma de fuego,Jesús Nazareno,#1003,10
+2011-01-22 22:00:00-05:00,Hombre,28,Arma cortopunzante,Suramericana,#1102,11
+2011-01-23 23:30:00-05:00,Hombre,42,Arma cortopunzante,La Candelaria,#1019,10
+2011-01-23 19:50:00-05:00,Hombre,38,No,Barrio Colombia,#1401,14
+2011-01-23 19:25:00-05:00,Hombre,18,Arma cortopunzante,La Aguacatala,#1422,14
+2011-01-23 04:00:00-05:00,Hombre,23,Sin dato,Moravia,#0405,4
+2011-01-23 03:50:00-05:00,Hombre,38,No,Las Lomas No.1,#1406,14
+2011-01-23 11:00:00-05:00,Mujer,22,No,Versalles No.2,#0310,3
+2011-01-24 15:45:00-05:00,Hombre,16,No,Estación Villa,#1005,10
+2011-01-24 21:20:00-05:00,Hombre,33,Arma de fuego,La Gloria,#1612,16
+2011-01-24 19:05:00-05:00,Mujer,25,Arma cortopunzante,Barrio Colón,#1013,10
+2011-01-24 21:50:00-05:00,Hombre,23,No,Guayaquil,#1007,10
+2011-01-24 00:30:00-05:00,Hombre,28,No,San Bernardo,#1605,16
+2011-01-25 09:40:00-05:00,Hombre,35,No,Manrique Central No.2,#0307,3
+2011-01-25 22:20:00-05:00,Hombre,34,Arma de fuego,La Castellana,#1110,11
+2011-01-25 07:00:00-05:00,Mujer,46,Sin dato,Lalinde,#1405,14
+2011-01-25 10:40:00-05:00,Hombre,36,Arma de fuego,Perpetuo Socorro,#1012,10
+2011-01-25 20:45:00-05:00,Mujer,57,Arma de fuego,Florida Nueva,#1117,11
+2011-01-25 19:00:00-05:00,Mujer,26,No,La Aguacatala,#1422,14
+2011-01-25 16:20:00-05:00,Hombre,47,Arma de fuego,Patio Bonito,#1421,14
+2011-01-25 22:20:00-05:00,Hombre,34,Arma de fuego,La Castellana,#1110,11
+2011-01-25 22:20:00-05:00,Hombre,34,Arma de fuego,La Castellana,#1110,11
+2011-01-25 19:00:00-05:00,Mujer,26,No,La Aguacatala,#1422,14
+2011-01-25 16:20:00-05:00,Hombre,47,Arma de fuego,Patio Bonito,#1421,14
+2011-01-26 19:15:00-05:00,Mujer,21,No,Florida Nueva,#1117,11
+2011-01-26 20:40:00-05:00,Mujer,32,Arma cortopunzante,Alejandría,#1416,14
+2011-01-26 18:30:00-05:00,Hombre,42,Arma cortopunzante,La Candelaria,#1019,10
+2011-01-26 21:30:00-05:00,Mujer,34,Arma de fuego,La Castellana,#1110,11
+2011-01-26 19:15:00-05:00,Mujer,21,No,Florida Nueva,#1117,11
+2011-01-26 18:30:00-05:00,Hombre,42,Arma cortopunzante,La Candelaria,#1019,10
+2011-01-27 14:30:00-05:00,Hombre,18,No,Lorena,#1111,11
+2011-01-27 17:00:00-05:00,Mujer,22,No,La Candelaria,#1019,10
+2011-01-27 06:20:00-05:00,Hombre,44,Arma de fuego,La Aguacatala,#1422,14
+2011-01-27 13:00:00-05:00,Hombre,57,Arma de fuego,El Tesoro,#1409,14
+2011-01-27 06:20:00-05:00,Hombre,44,Arma de fuego,La Aguacatala,#1422,14
+2011-01-27 13:00:00-05:00,Hombre,57,Arma de fuego,El Tesoro,#1409,14
+2011-01-28 23:00:00-05:00,Mujer,27,Arma de fuego,La Pilarica,#0706,7
+2011-01-28 14:00:00-05:00,Mujer,28,Arma cortopunzante,Barrio Colón,#1013,10
+2011-01-28 16:00:00-05:00,Mujer,43,Arma cortopunzante,Perpetuo Socorro,#1012,10
+2011-01-28 01:00:00-05:00,Mujer,45,Arma cortopunzante,Manila,#1419,14
+2011-01-28 15:36:00-05:00,Mujer,39,Arma de fuego,Guayaquil,#1007,10
+2011-01-28 12:40:00-05:00,Hombre,22,Arma de fuego,Lorena,#1111,11
+2011-01-28 23:00:00-05:00,Mujer,27,Arma de fuego,La Pilarica,#0706,7
+2011-01-28 12:40:00-05:00,Hombre,22,Arma de fuego,Lorena,#1111,11
+2011-01-29 09:30:00-05:00,Hombre,19,No,Manrique Central No.1,#0409,4
+2011-01-29 16:15:00-05:00,Hombre,54,No,La Candelaria,#1019,10
+2011-01-29 18:30:00-05:00,Hombre,47,Arma cortopunzante,Campo Valdés No.1,#0410,4
+2011-01-29 02:18:00-05:00,Mujer,52,No,Santa María de los Ángeles,#1423,14
+2011-01-30 00:01:00-05:00,Hombre,44,Arma de fuego,San Javier No.1,#1309,13
+2011-01-31 19:15:00-05:00,Hombre,42,No,Villa Nueva,#1018,10
+2011-01-31 04:00:00-05:00,Mujer,22,Sin dato,El Poblado,#1418,14
+2011-01-31 08:00:00-05:00,Hombre,73,No,Sin dato,SIN DATO,SIN DATO
+2011-02-01 18:30:00-05:00,Hombre,39,No,Guayaquil,#1007,10
+2011-02-01 18:00:00-05:00,Hombre,38,No,La Candelaria,#1019,10
+2011-02-01 08:00:00-05:00,Mujer,38,Sin dato,Sin dato,SIN DATO,SIN DATO
+2011-02-01 18:30:00-05:00,Hombre,39,No,Guayaquil,#1007,10
+2011-02-01 18:30:00-05:00,Hombre,39,No,Guayaquil,#1007,10
+2011-02-01 18:30:00-05:00,Hombre,39,No,Guayaquil,#1007,10
+2011-02-01 18:30:00-05:00,Hombre,39,No,Guayaquil,#1007,10
+2011-02-02 05:10:00-05:00,Hombre,24,No,Castilla,#0511,5
+2011-02-02 20:15:00-05:00,Mujer,22,No,San Javier No.1,#1309,13
+2011-02-02 00:05:00-05:00,Hombre,26,Arma cortopunzante,Andalucía,#0206,2
+2011-02-02 17:00:00-05:00,Hombre,23,No,Berlin,#0401,4
+2011-02-02 10:30:00-05:00,Hombre,36,Arma de fuego,Santo Domingo Savio No.1,#0101,1
+2011-02-02 14:20:00-05:00,Hombre,29,Arma cortopunzante,Lorena,#1111,11
+2011-02-02 13:10:00-05:00,Mujer,35,No,San Javier No.1,#1309,13
+2011-02-02 17:00:00-05:00,Hombre,44,Arma cortopunzante,Sevilla,#0407,4
+2011-02-02 10:30:00-05:00,Hombre,36,Arma de fuego,Santo Domingo Savio No.1,#0101,1
+2011-02-03 22:15:00-05:00,Hombre,40,Arma de fuego,Santa Fé,#1504,15
+2011-02-03 16:10:00-05:00,Hombre,49,No,San Pedro,#0408,4
+2011-02-03 05:30:00-05:00,Hombre,42,No,Villa Nueva,#1018,10
+2011-02-04 13:05:00-05:00,Hombre,32,Perro,Jesús Nazareno,#1003,10
+2011-02-04 14:15:00-05:00,Hombre,49,No,La Candelaria,#1019,10
+2011-02-04 00:35:00-05:00,Hombre,24,Arma cortopunzante,Guayaquil,#1007,10
+2011-02-04 08:10:00-05:00,Hombre,20,Objeto contundente,Prado,#1001,10
+2011-02-04 00:05:00-05:00,Hombre,56,Arma cortopunzante,Universidad Nacional,#Inst_8,7
+2011-02-04 15:30:00-05:00,Mujer,22,No,Moravia,#0405,4
+2011-02-04 00:30:00-05:00,Mujer,59,No,Fátima,#1601,16
+2011-02-04 16:10:00-05:00,Sin dato,-1,Sin dato,Trinidad,#1503,15
+2011-02-04 02:20:00-05:00,Hombre,22,Arma cortopunzante,Sevilla,#0407,4
+2011-02-04 13:05:00-05:00,Hombre,32,Perro,Jesús Nazareno,#1003,10
+2011-02-04 13:05:00-05:00,Hombre,32,Perro,Jesús Nazareno,#1003,10
+2011-02-04 13:05:00-05:00,Hombre,32,Perro,Jesús Nazareno,#1003,10
+2011-02-05 11:30:00-05:00,Mujer,26,Arma cortopunzante,Aranjuez,#0413,4
+2011-02-05 13:55:00-05:00,Mujer,38,No,Santo Domingo Savio No.1,#0101,1
+2011-02-05 20:15:00-05:00,Mujer,31,No,La Candelaria,#1019,10
+2011-02-05 18:46:00-05:00,Hombre,52,No,Los Balsos No.2,#1415,14
+2011-02-05 18:00:00-05:00,Mujer,31,No,San Javier No.1,#1309,13
+2011-02-06 16:30:00-05:00,Hombre,25,Arma de fuego,La Aguacatala,#1422,14
+2011-02-06 06:30:00-05:00,Hombre,52,No,López de Mesa,#0710,7
+2011-02-06 16:30:00-05:00,Hombre,25,Arma de fuego,La Aguacatala,#1422,14
+2011-02-07 15:30:00-05:00,Hombre,39,Arma de fuego,San Isidro,#0402,4
+2011-02-07 00:18:00-05:00,Mujer,24,Arma cortopunzante,Prado,#1001,10
+2011-02-07 00:45:00-05:00,Hombre,38,Arma de fuego,Barrio Colón,#1013,10
+2011-02-07 00:10:00-05:00,Hombre,51,Arma cortopunzante,Barrio Colón,#1013,10
+2011-02-07 13:20:00-05:00,Mujer,23,No,Los Colores,#1114,11
+2011-02-07 15:40:00-05:00,Mujer,34,No,Los Naranjos,#1410,14
+2011-02-07 15:30:00-05:00,Hombre,39,Arma de fuego,San Isidro,#0402,4
+2011-02-08 18:10:00-05:00,Hombre,21,No,Perpetuo Socorro,#1012,10
+2011-02-08 08:10:00-05:00,Mujer,32,Arma cortopunzante,Villa Nueva,#1018,10
+2011-02-08 14:30:00-05:00,Mujer,30,No,Los Colores,#1114,11
+2011-02-08 04:10:00-05:00,Hombre,31,No,Las Palmas,#1014,10
+2011-02-09 21:10:00-05:00,Hombre,27,Arma de fuego,Progreso,#0519,5
+2011-02-09 15:20:00-05:00,Hombre,24,Arma de fuego,Naranjal,#1103,11
+2011-02-09 16:45:00-05:00,Mujer,21,No,Patio Bonito,#1421,14
+2011-02-09 20:30:00-05:00,Hombre,51,Arma de fuego,Los Pinos,#1203,12
+2011-02-09 09:15:00-05:00,Mujer,21,No,Miravalle,#1619,16
+2011-02-09 15:20:00-05:00,Hombre,24,Arma de fuego,Naranjal,#1103,11
+2011-02-10 14:30:00-05:00,Hombre,23,Arma cortopunzante,Belén,#1603,16
+2011-02-10 11:30:00-05:00,Hombre,25,Arma de fuego,Aures No.1,#0713,7
+2011-02-10 00:10:00-05:00,Hombre,25,No,Estación Villa,#1005,10
+2011-02-10 11:30:00-05:00,Hombre,25,Arma de fuego,Kennedy,#0607,6
+2011-02-11 01:00:00-05:00,Hombre,25,No,Prado,#1001,10
+2011-02-11 14:40:00-05:00,Mujer,35,No,La Candelaria,#1019,10
+2011-02-11 14:30:00-05:00,Hombre,31,Arma de fuego,Prado,#1001,10
+2011-02-11 14:25:00-05:00,Sin dato,-1,Sin dato,Olaya Herrera,#0722,7
+2011-02-12 11:45:00-05:00,Hombre,47,Arma cortopunzante,La Candelaria,#1019,10
+2011-02-12 13:35:00-05:00,Hombre,19,Arma cortopunzante,Caribe,#0517,5
+2011-02-12 12:00:00-05:00,Hombre,35,Arma de fuego,San Javier No.1,#1309,13
+2011-02-12 00:00:00-05:00,Sin dato,-1,Arma de fuego,Laureles,#1108,11
+2011-02-12 11:45:00-05:00,Hombre,47,Arma cortopunzante,La Candelaria,#1019,10
+2011-02-13 04:30:00-05:00,Hombre,22,Arma cortopunzante,Santa Inés,#0304,3
+2011-02-13 03:30:00-05:00,Hombre,40,No,Belén,#1603,16
+2011-02-13 15:30:00-05:00,Hombre,22,No,La Pilarica,#0706,7
+2011-02-13 00:30:00-05:00,Sin dato,-1,Sin dato,Las Mercedes,#1617,16
+2011-02-13 15:30:00-05:00,Hombre,22,No,La Pilarica,#0706,7
+2011-02-14 19:00:00-05:00,Mujer,29,Arma cortopunzante,Patio Bonito,#1421,14
+2011-02-14 16:30:00-05:00,Hombre,23,No,Diego Echavarría,#1607,16
+2011-02-14 19:20:00-05:00,Sin dato,-1,Arma cortopunzante,Terminal de Transporte,#Inst_4,5
+2011-02-14 12:00:00-05:00,Mujer,45,No,Sin dato,SIN DATO,SIN DATO
+2011-02-14 14:45:00-05:00,Sin dato,-1,Arma de fuego,Prado,#1001,10
+2011-02-15 19:20:00-05:00,Hombre,29,Arma de fuego,Santa Teresita,#1212,12
+2011-02-15 19:20:00-05:00,Hombre,26,Arma de fuego,Trinidad,#1503,15
+2011-02-15 21:00:00-05:00,Hombre,23,Arma de fuego,San Joaquín,#1104,11
+2011-02-15 16:56:00-05:00,Mujer,40,No,Campo Amor,#1507,15
+2011-02-15 00:20:00-05:00,Hombre,21,No,La Candelaria,#1019,10
+2011-02-15 16:30:00-05:00,Sin dato,-1,Sin dato,Boston,#1016,10
+2011-02-15 10:40:00-05:00,Sin dato,-1,Arma de fuego,Playón de los Comuneros,#0202,2
+2011-02-15 14:00:00-05:00,Sin dato,-1,Sin dato,Caribe,#0517,5
+2011-02-15 19:20:00-05:00,Hombre,26,Arma de fuego,Trinidad,#1503,15
+2011-02-15 19:20:00-05:00,Hombre,26,Arma de fuego,Trinidad,#1503,15
+2011-02-15 19:20:00-05:00,Hombre,26,Arma de fuego,Trinidad,#1503,15
+2011-02-15 21:00:00-05:00,Hombre,23,Arma de fuego,San Joaquín,#1104,11
+2011-02-16 16:30:00-05:00,Hombre,22,Arma de fuego,San Miguel,#0803,8
+2011-02-16 20:00:00-05:00,Hombre,26,No,Sevilla,#0407,4
+2011-02-16 09:30:00-05:00,Hombre,32,No,Eduardo Santos,#1317,13
+2011-02-16 14:35:00-05:00,Mujer,30,No,La Candelaria,#1019,10
+2011-02-16 21:30:00-05:00,Hombre,29,Arma de fuego,Calasanz,#1202,12
+2011-02-16 14:30:00-05:00,Hombre,30,Arma de fuego,Perpetuo Socorro,#1012,10
+2011-02-16 14:30:00-05:00,Hombre,30,Arma de fuego,Perpetuo Socorro,#1012,10
+2011-02-17 15:30:00-05:00,Hombre,32,Arma de fuego,Campo Valdés No.1,#0410,4
+2011-02-17 18:00:00-05:00,Hombre,49,No,Villa Carlota,#1403,14
+2011-02-17 15:30:00-05:00,Hombre,21,Arma cortopunzante,La Candelaria,#1019,10
+2011-02-17 17:30:00-05:00,Hombre,26,No,Bolivariana,#1107,11
+2011-02-17 17:25:00-05:00,Hombre,22,No,Sevilla,#0407,4
+2011-02-17 06:50:00-05:00,Mujer,43,Arma de fuego,Los Balsos No.1,#1411,14
+2011-02-17 18:00:00-05:00,Hombre,49,No,Villa Carlota,#1403,14
+2011-02-17 18:00:00-05:00,Hombre,49,No,Villa Carlota,#1403,14
+2011-02-17 18:00:00-05:00,Hombre,49,No,Villa Carlota,#1403,14
+2011-02-18 22:30:00-05:00,Hombre,17,No,Sevilla,#0407,4
+2011-02-18 16:00:00-05:00,Hombre,19,No,Prado,#1001,10
+2011-02-18 12:30:00-05:00,Mujer,36,No,Terminal de Transporte,#Inst_4,5
+2011-02-18 23:40:00-05:00,Sin dato,-1,Arma de fuego,Perpetuo Socorro,#1012,10
+2011-02-18 21:40:00-05:00,Hombre,38,Sin dato,Moravia,#0405,4
+2011-02-18 20:30:00-05:00,Hombre,38,Sin dato,Moravia,#0405,4
+2011-02-18 09:15:00-05:00,Hombre,40,Arma cortopunzante,San Diego,#1020,10
+2011-02-18 22:30:00-05:00,Hombre,17,No,Sevilla,#0407,4
+2011-02-18 16:00:00-05:00,Hombre,19,No,Prado,#1001,10
+2011-02-18 12:30:00-05:00,Mujer,36,No,Terminal de Transporte,#Inst_4,5
+2011-02-18 23:40:00-05:00,Sin dato,-1,Arma de fuego,Perpetuo Socorro,#1012,10
+2011-02-18 21:40:00-05:00,Hombre,38,Sin dato,Moravia,#0405,4
+2011-02-18 20:30:00-05:00,Hombre,38,Sin dato,Moravia,#0405,4
+2011-02-19 21:20:00-05:00,Hombre,27,Arma de fuego,Bolivariana,#1107,11
+2011-02-19 12:00:00-05:00,Mujer,21,Objeto contundente,Manila,#1419,14
+2011-02-19 01:30:00-05:00,Hombre,23,Arma cortopunzante,Patio Bonito,#1421,14
+2011-02-19 18:30:00-05:00,Mujer,42,Objeto contundente,La Candelaria,#1019,10
+2011-02-19 03:00:00-05:00,Hombre,24,Arma cortopunzante,Cucaracho,#0718,7
+2011-02-19 18:30:00-05:00,Mujer,42,Objeto contundente,La Candelaria,#1019,10
+2011-02-19 03:00:00-05:00,Hombre,24,Arma cortopunzante,Cucaracho,#0718,7
+2011-02-19 03:00:00-05:00,Hombre,24,Arma cortopunzante,Cucaracho,#0718,7
+2011-02-20 10:15:00-05:00,Mujer,39,No,Asomadera No.2,#0915,9
+2011-02-20 04:40:00-05:00,Hombre,21,No,Astorga,#1420,14
+2011-02-20 13:10:00-05:00,Mujer,21,Arma cortopunzante,San Miguel,#0803,8
+2011-02-20 19:30:00-05:00,Hombre,38,Escopolamina,Patio Bonito,#1421,14
+2011-02-20 13:10:00-05:00,Mujer,21,Arma cortopunzante,San Miguel,#0803,8
+2011-02-20 19:30:00-05:00,Hombre,38,Escopolamina,Patio Bonito,#1421,14
+2011-02-21 02:35:00-05:00,Mujer,39,No,Calasanz,#1202,12
+2011-02-21 15:50:00-05:00,Hombre,23,Arma de fuego,Manila,#1419,14
+2011-02-21 11:45:00-05:00,Hombre,16,No,Moravia,#0405,4
+2011-02-21 00:00:00-05:00,Hombre,58,Arma cortopunzante,La Candelaria,#1019,10
+2011-02-21 01:30:00-05:00,Hombre,62,No,Barrio Colón,#1013,10
+2011-02-21 17:00:00-05:00,Hombre,22,No,Los Conquistadores,#1105,11
+2011-02-21 15:50:00-05:00,Hombre,23,Arma de fuego,Manila,#1419,14
+2011-02-21 00:00:00-05:00,Hombre,58,Arma cortopunzante,La Candelaria,#1019,10
+2011-02-22 16:00:00-05:00,Mujer,46,No,Suramericana,#1102,11
+2011-02-22 15:00:00-05:00,Hombre,53,No,La Candelaria,#1019,10
+2011-02-22 16:15:00-05:00,Hombre,27,No,La Candelaria,#1019,10
+2011-02-22 03:42:00-05:00,Hombre,42,Arma de fuego,Castilla,#0511,5
+2011-02-22 10:40:00-05:00,Hombre,25,No,Los Colores,#1114,11
+2011-02-22 21:15:00-05:00,Hombre,43,Arma de fuego,El Poblado,#1418,14
+2011-02-23 05:45:00-05:00,Hombre,46,Arma de fuego,La Pilarica,#0706,7
+2011-02-23 05:30:00-05:00,Mujer,23,Arma de fuego,Castilla,#0511,5
+2011-02-23 12:04:00-05:00,Mujer,51,No,San Lucas,#1412,14
+2011-02-23 00:30:00-05:00,Hombre,28,Arma cortopunzante,Toscana,#0501,5
+2011-02-23 13:50:00-05:00,Mujer,25,No,La Candelaria,#1019,10
+2011-02-23 05:10:00-05:00,Hombre,36,Arma de fuego,Los Conquistadores,#1105,11
+2011-02-23 11:45:00-05:00,Hombre,39,No,Calasanz,#1202,12
+2011-02-23 16:30:00-05:00,Hombre,19,No,Loreto,#0913,9
+2011-02-23 12:04:00-05:00,Mujer,51,No,San Lucas,#1412,14
+2011-02-23 12:04:00-05:00,Mujer,51,No,San Lucas,#1412,14
+2011-02-23 00:30:00-05:00,Hombre,28,Arma cortopunzante,Toscana,#0501,5
+2011-02-23 05:10:00-05:00,Hombre,36,Arma de fuego,Los Conquistadores,#1105,11
+2011-02-24 22:25:00-05:00,Mujer,29,No,Patio Bonito,#1421,14
+2011-02-24 09:35:00-05:00,Hombre,30,No,San Javier No.1,#1309,13
+2011-02-24 14:00:00-05:00,Hombre,33,Arma de fuego,San Pedro,#0408,4
+2011-02-24 06:20:00-05:00,Hombre,17,No,Jesús Nazareno,#1003,10
+2011-02-24 14:00:00-05:00,Hombre,33,Arma de fuego,San Pedro,#0408,4
+2011-02-24 14:00:00-05:00,Hombre,33,Arma de fuego,San Pedro,#0408,4
+2011-02-25 04:30:00-05:00,Hombre,53,Arma de fuego,U.D. Atanasio Girardot,#Inst_14,11
+2011-02-25 22:30:00-05:00,Hombre,23,Arma de fuego,La Castellana,#1110,11
+2011-02-25 22:45:00-05:00,Mujer,28,No,Universidad Nacional,#Inst_8,7
+2011-02-25 17:00:00-05:00,Mujer,23,No,Guayaquil,#1007,10
+2011-02-25 13:00:00-05:00,Hombre,26,Arma de fuego,Belén,#1603,16
+2011-02-25 06:30:00-05:00,Hombre,28,Arma de fuego,Toscana,#0501,5
+2011-02-25 04:30:00-05:00,Hombre,53,Arma de fuego,U.D. Atanasio Girardot,#Inst_14,11
+2011-02-25 04:30:00-05:00,Hombre,53,Arma de fuego,U.D. Atanasio Girardot,#Inst_14,11
+2011-02-25 22:30:00-05:00,Hombre,23,Arma de fuego,La Castellana,#1110,11
+2011-02-25 22:30:00-05:00,Hombre,23,Arma de fuego,La Castellana,#1110,11
+2011-02-25 06:30:00-05:00,Hombre,28,Arma de fuego,Toscana,#0501,5
+2011-02-26 13:50:00-05:00,Hombre,15,Arma cortopunzante,Florida Nueva,#1117,11
+2011-02-26 19:00:00-05:00,Hombre,22,No,Estadio,#1113,11
+2011-02-26 01:00:00-05:00,Hombre,19,Arma cortopunzante,Parque Norte,#Inst_9,4
+2011-02-26 07:30:00-05:00,Hombre,35,Arma cortopunzante,Prado,#1001,10
+2011-02-26 16:49:00-05:00,Mujer,58,No,Astorga,#1420,14
+2011-02-26 13:50:00-05:00,Hombre,15,Arma cortopunzante,Florida Nueva,#1117,11
+2011-02-27 19:00:00-05:00,Hombre,22,Arma cortopunzante,Estadio,#1113,11
+2011-02-27 01:00:00-05:00,Hombre,30,Arma cortopunzante,La Candelaria,#1019,10
+2011-02-27 04:00:00-05:00,Hombre,44,Escopolamina,El Poblado,#1418,14
+2011-02-27 04:00:00-05:00,Hombre,44,Escopolamina,El Poblado,#1418,14
+2011-02-27 04:00:00-05:00,Hombre,44,Escopolamina,El Poblado,#1418,14
+2011-02-28 11:45:00-05:00,Mujer,71,Arma de fuego,Los Colores,#1114,11
+2011-02-28 08:00:00-05:00,Mujer,21,Arma cortopunzante,Castilla,#0511,5
+2011-03-01 06:25:00-05:00,Hombre,47,Arma de fuego,El Velódromo,#1112,11
+2011-03-01 09:30:00-05:00,Hombre,31,Arma de fuego,Berlin,#0401,4
+2011-03-01 16:45:00-05:00,Hombre,73,Arma de fuego,Santa Fé,#1504,15
+2011-03-01 08:25:00-05:00,Mujer,18,No,Los Balsos No.2,#1415,14
+2011-03-01 15:20:00-05:00,Hombre,16,No,La Palma,#1614,16
+2011-03-01 04:00:00-05:00,Hombre,22,Arma de fuego,Campo Valdés No.1,#0410,4
+2011-03-01 12:00:00-05:00,Hombre,16,No,El Chagualo,#1004,10
+2011-03-01 16:20:00-05:00,Hombre,27,No,Laureles,#1108,11
+2011-03-02 13:20:00-05:00,Hombre,58,Arma de fuego,El Diamante No.2,#1413,14
+2011-03-02 20:40:00-05:00,Mujer,51,Sin dato,Calasanz,#1202,12
+2011-03-02 14:50:00-05:00,Hombre,29,No,Barrio Colombia,#1401,14
+2011-03-02 23:20:00-05:00,Hombre,21,Arma de fuego,Belén,#1603,16
+2011-03-02 21:30:00-05:00,Hombre,34,Arma de fuego,La Piñuela,#0412,4
+2011-03-02 01:00:00-05:00,Hombre,16,Arma cortopunzante,El Chagualo,#1004,10
+2011-03-02 13:20:00-05:00,Hombre,58,Arma de fuego,El Diamante No.2,#1413,14
+2011-03-02 13:20:00-05:00,Hombre,58,Arma de fuego,El Diamante No.2,#1413,14
+2011-03-02 20:40:00-05:00,Mujer,51,Sin dato,Calasanz,#1202,12
+2011-03-02 20:40:00-05:00,Mujer,51,Sin dato,Calasanz,#1202,12
+2011-03-02 21:30:00-05:00,Hombre,34,Arma de fuego,La Piñuela,#0412,4
+2011-03-02 21:30:00-05:00,Hombre,34,Arma de fuego,La Piñuela,#0412,4
+2011-03-03 10:00:00-05:00,Mujer,24,No,Villa Nueva,#1018,10
+2011-03-03 12:15:00-05:00,Hombre,25,Arma de fuego,Patio Bonito,#1421,14
+2011-03-03 15:38:00-05:00,Hombre,46,No,La Alpujarra,#Inst_16,10
+2011-03-03 19:00:00-05:00,Hombre,20,No,Batallón Cuarta Brigada,#Inst_13,11
+2011-03-03 21:00:00-05:00,Hombre,33,Arma de fuego,San Javier No.1,#1309,13
+2011-03-03 02:55:00-05:00,Hombre,53,No,El Poblado,#1418,14
+2011-03-03 16:45:00-05:00,Hombre,34,Objeto contundente,La Aguacatala,#1422,14
+2011-03-03 20:50:00-05:00,Hombre,28,No,Trinidad,#1503,15
+2011-03-03 19:00:00-05:00,Hombre,20,No,Batallón Cuarta Brigada,#Inst_13,11
+2011-03-03 21:00:00-05:00,Hombre,33,Arma de fuego,San Javier No.1,#1309,13
+2011-03-04 01:00:00-05:00,Mujer,22,Arma cortopunzante,Villa Nueva,#1018,10
+2011-03-04 08:25:00-05:00,Sin dato,-1,Arma cortopunzante,Los Conquistadores,#1105,11
+2011-03-04 03:00:00-05:00,Hombre,18,No,Castropol,#1404,14
+2011-03-04 13:30:00-05:00,Hombre,19,Arma cortopunzante,Simón Bolívar,#1211,12
+2011-03-04 19:30:00-05:00,Hombre,52,Sin dato,Lalinde,#1405,14
+2011-03-04 14:00:00-05:00,Hombre,33,No,Santa Lucía,#1206,12
+2011-03-04 13:15:00-05:00,Sin dato,-1,Arma cortopunzante,San Joaquín,#1104,11
+2011-03-04 09:50:00-05:00,Mujer,61,Arma cortopunzante,Las Brisas,#0502,5
+2011-03-04 08:25:00-05:00,Sin dato,-1,Arma cortopunzante,Los Conquistadores,#1105,11
+2011-03-04 03:00:00-05:00,Hombre,18,No,Castropol,#1404,14
+2011-03-04 09:50:00-05:00,Mujer,61,Arma cortopunzante,Las Brisas,#0502,5
+2011-03-05 14:00:00-05:00,Hombre,30,Arma de fuego,Girardot,#0509,5
+2011-03-05 12:20:00-05:00,Hombre,41,Arma de fuego,Sevilla,#0407,4
+2011-03-05 10:30:00-05:00,Hombre,24,Sin dato,Prado,#1001,10
+2011-03-05 08:40:00-05:00,Hombre,54,Sin dato,El Poblado,#1418,14
+2011-03-05 17:50:00-05:00,Hombre,42,Sin dato,El Poblado,#1418,14
+2011-03-05 20:00:00-05:00,Hombre,50,Arma cortopunzante,Andalucía,#0206,2
+2011-03-05 12:20:00-05:00,Hombre,41,Arma de fuego,Sevilla,#0407,4
+2011-03-05 12:20:00-05:00,Hombre,41,Arma de fuego,Sevilla,#0407,4
+2011-03-06 14:15:00-05:00,Mujer,49,No,Lalinde,#1405,14
+2011-03-06 23:40:00-05:00,Mujer,23,Arma de fuego,La Mansión,#0802,8
+2011-03-06 21:00:00-05:00,Hombre,35,Arma de fuego,La Castellana,#1110,11
+2011-03-06 12:00:00-05:00,Hombre,42,No,Eduardo Santos,#1317,13
+2011-03-06 18:20:00-05:00,Hombre,20,No,La Candelaria,#1019,10
+2011-03-06 17:10:00-05:00,Hombre,42,Arma de fuego,Suramericana,#1102,11
+2011-03-06 11:15:00-05:00,Hombre,39,No,Nueva Villa del Aburrá,#1618,16
+2011-03-06 23:40:00-05:00,Mujer,23,Arma de fuego,La Mansión,#0802,8
+2011-03-06 23:40:00-05:00,Mujer,23,Arma de fuego,La Mansión,#0802,8
+2011-03-06 23:40:00-05:00,Mujer,23,Arma de fuego,La Mansión,#0802,8
+2011-03-06 21:00:00-05:00,Hombre,35,Arma de fuego,La Castellana,#1110,11
+2011-03-06 17:10:00-05:00,Hombre,42,Arma de fuego,Suramericana,#1102,11
+2011-03-06 17:10:00-05:00,Hombre,42,Arma de fuego,Suramericana,#1102,11
+2011-03-07 10:10:00-05:00,Hombre,62,No,Palermo,#0403,4
+2011-03-07 02:00:00-05:00,Hombre,36,No,Perpetuo Socorro,#1012,10
+2011-03-07 14:30:00-05:00,Hombre,13,No,Los Ángeles,#1017,10
+2011-03-07 02:15:00-05:00,Hombre,16,No,Santo Domingo Savio No.1,#0101,1
+2011-03-07 12:30:00-05:00,Hombre,17,Objeto contundente,Caribe,#0517,5
+2011-03-07 09:15:00-05:00,Hombre,72,Arma cortopunzante,Villa Nueva,#1018,10
+2011-03-07 08:30:00-05:00,Hombre,35,No,San Javier No.1,#1309,13
+2011-03-07 10:00:00-05:00,Hombre,27,No,Prado,#1001,10
+2011-03-07 17:00:00-05:00,Hombre,41,Arma de fuego,Pajarito,#0723,7
+2011-03-07 12:30:00-05:00,Hombre,17,Objeto contundente,Caribe,#0517,5
+2011-03-07 17:00:00-05:00,Hombre,41,Arma de fuego,Pajarito,#0723,7
+2011-03-07 17:00:00-05:00,Hombre,41,Arma de fuego,Pajarito,#0723,7
+2011-03-08 11:00:00-05:00,Mujer,41,No,Perpetuo Socorro,#1012,10
+2011-03-08 12:20:00-05:00,Mujer,32,No,La Florida,#1417,14
+2011-03-08 18:25:00-05:00,Mujer,18,No,Suramericana,#1102,11
+2011-03-08 11:14:00-05:00,Hombre,35,Arma de fuego,Santo Domingo Savio No.2,#0102,1
+2011-03-09 15:36:00-05:00,Sin dato,-1,Arma de fuego,Naranjal,#1103,11
+2011-03-09 00:20:00-05:00,Mujer,47,Arma cortopunzante,El Rincón,#1610,16
+2011-03-09 20:15:00-05:00,Hombre,26,No,Patio Bonito,#1421,14
+2011-03-09 12:30:00-05:00,Hombre,40,Arma de fuego,Belalcázar,#0508,5
+2011-03-09 12:30:00-05:00,Hombre,40,Arma de fuego,Belalcázar,#0508,5
+2011-03-10 07:30:00-05:00,Hombre,41,No,El Nogal-Los Almendros,#1620,16
+2011-03-10 16:30:00-05:00,Hombre,26,No,Astorga,#1420,14
+2011-03-10 11:15:00-05:00,Hombre,21,Arma cortopunzante,Manila,#1419,14
+2011-03-10 04:00:00-05:00,Hombre,42,No,Kennedy,#0607,6
+2011-03-10 19:25:00-05:00,Hombre,33,No,Campo Amor,#1507,15
+2011-03-10 18:40:00-05:00,Hombre,56,Arma de fuego,Villa Hermosa,#0801,8
+2011-03-10 00:40:00-05:00,Hombre,35,No,Sevilla,#0407,4
+2011-03-10 20:00:00-05:00,Hombre,44,No,Carlos E. Restrepo,#1101,11
+2011-03-10 18:40:00-05:00,Hombre,56,Arma de fuego,Villa Hermosa,#0801,8
+2011-03-10 00:40:00-05:00,Hombre,35,No,Sevilla,#0407,4
+2011-03-11 15:00:00-05:00,Hombre,21,Arma cortopunzante,Terminal de Transporte,#Inst_4,5
+2011-03-11 18:30:00-05:00,Hombre,44,Arma cortopunzante,Caribe,#0517,5
+2011-03-11 17:45:00-05:00,Hombre,31,No,Barrio Colón,#1013,10
+2011-03-11 11:10:00-05:00,Hombre,33,Sin dato,Laureles,#1108,11
+2011-03-11 15:55:00-05:00,Hombre,29,No,Los Conquistadores,#1105,11
+2011-03-11 15:00:00-05:00,Hombre,21,Arma cortopunzante,Terminal de Transporte,#Inst_4,5
+2011-03-11 18:30:00-05:00,Hombre,44,Arma cortopunzante,Caribe,#0517,5
+2011-03-12 02:30:00-05:00,Hombre,18,No,La Florida,#1417,14
+2011-03-12 15:50:00-05:00,Hombre,22,No,Villa Carlota,#1403,14
+2011-03-12 10:10:00-05:00,Mujer,30,No,Villa Nueva,#1018,10
+2011-03-12 06:00:00-05:00,Mujer,52,No,Belén,#1603,16
+2011-03-12 03:15:00-05:00,Hombre,29,No,Cristo Rey,#1509,15
+2011-03-12 16:00:00-05:00,Hombre,32,No,La Candelaria,#1019,10
+2011-03-12 13:43:00-05:00,Hombre,33,Arma de fuego,La Candelaria,#1019,10
+2011-03-12 11:00:00-05:00,Hombre,25,Arma de fuego,Calasanz,#1202,12
+2011-03-12 11:00:00-05:00,Hombre,25,Arma de fuego,Calasanz,#1202,12
+2011-03-13 08:15:00-05:00,Hombre,49,Arma de fuego,Calasanz,#1202,12
+2011-03-13 02:45:00-05:00,Hombre,21,No,Santa Lucía,#1206,12
+2011-03-13 02:45:00-05:00,Hombre,21,No,Santa Lucía,#1206,12
+2011-03-14 17:10:00-05:00,Hombre,17,Arma cortopunzante,Estadio,#1113,11
+2011-03-14 19:30:00-05:00,Mujer,17,No,Boston,#1016,10
+2011-03-14 11:40:00-05:00,Hombre,64,Sin dato,Castropol,#1404,14
+2011-03-14 02:00:00-05:00,Hombre,35,Sin dato,Sin dato,SIN DATO,SIN DATO
+2011-03-15 14:15:00-05:00,Mujer,71,Sin dato,San Diego,#1020,10
+2011-03-15 16:10:00-05:00,Hombre,20,No,Manila,#1419,14
+2011-03-15 09:00:00-05:00,Hombre,21,Sin dato,Patio Bonito,#1421,14
+2011-03-15 22:00:00-05:00,Hombre,76,Sin dato,Los Balsos No.1,#1411,14
+2011-03-15 10:05:00-05:00,Hombre,32,Sin dato,Castropol,#1404,14
+2011-03-15 20:30:00-05:00,Hombre,31,No,El Poblado,#1418,14
+2011-03-15 16:10:00-05:00,Hombre,20,No,Manila,#1419,14
+2011-03-15 09:00:00-05:00,Hombre,21,Sin dato,Patio Bonito,#1421,14
+2011-03-15 20:30:00-05:00,Hombre,31,No,El Poblado,#1418,14
+2011-03-16 15:00:00-05:00,Hombre,15,Objeto contundente,Los Conquistadores,#1105,11
+2011-03-16 16:00:00-05:00,Hombre,35,Objeto contundente,San Benito,#1006,10
+2011-03-17 17:40:00-05:00,Hombre,17,No,Corazón de Jesús,#1008,10
+2011-03-17 11:10:00-05:00,Hombre,32,Arma cortopunzante,San Benito,#1006,10
+2011-03-17 17:00:00-05:00,Mujer,38,No,La Florida,#1417,14
+2011-03-17 09:10:00-05:00,Hombre,30,Arma cortopunzante,Manila,#1419,14
+2011-03-17 21:10:00-05:00,Hombre,46,Arma de fuego,Barrio Colón,#1013,10
+2011-03-18 11:30:00-05:00,Mujer,16,Arma cortopunzante,U.D. Atanasio Girardot,#Inst_14,11
+2011-03-18 02:10:00-05:00,Hombre,21,Arma cortopunzante,Perpetuo Socorro,#1012,10
+2011-03-18 05:30:00-05:00,Hombre,32,Arma cortopunzante,Manila,#1419,14
+2011-03-18 23:40:00-05:00,Hombre,28,Arma de fuego,Las Mercedes,#1617,16
+2011-03-18 09:30:00-05:00,Mujer,21,Arma cortopunzante,La América,#1204,12
+2011-03-18 06:50:00-05:00,Hombre,22,Arma cortopunzante,Sevilla,#0407,4
+2011-03-18 14:45:00-05:00,Hombre,18,No,Estación Villa,#1005,10
+2011-03-18 00:35:00-05:00,Hombre,42,No,Manrique Oriental,#0308,3
+2011-03-18 11:40:00-05:00,Hombre,19,Arma cortopunzante,Perpetuo Socorro,#1012,10
+2011-03-18 15:00:00-05:00,Sin dato,-1,Arma de fuego,Boston,#1016,10
+2011-03-18 09:30:00-05:00,Mujer,21,Arma cortopunzante,La América,#1204,12
+2011-03-19 01:00:00-05:00,Mujer,36,No,Belén,#1603,16
+2011-03-19 13:10:00-05:00,Hombre,34,No,La Candelaria,#1019,10
+2011-03-19 01:40:00-05:00,Mujer,25,Arma cortopunzante,Veinte de Julio,#1310,13
+2011-03-19 14:35:00-05:00,Mujer,21,Arma de fuego,El Poblado,#1418,14
+2011-03-19 13:25:00-05:00,Hombre,47,Arma de fuego,El Poblado,#1418,14
+2011-03-19 18:25:00-05:00,Hombre,21,Arma cortopunzante,Naranjal,#1103,11
+2011-03-19 00:10:00-05:00,Sin dato,-1,Arma de fuego,Santa Mónica,#1209,12
+2011-03-19 14:35:00-05:00,Mujer,21,Arma de fuego,El Poblado,#1418,14
+2011-03-19 14:35:00-05:00,Mujer,21,Arma de fuego,El Poblado,#1418,14
+2011-03-20 11:50:00-05:00,Hombre,14,No,Popular,#0103,1
+2011-03-20 14:00:00-05:00,Mujer,30,No,Prado,#1001,10
+2011-03-20 00:00:00-05:00,Hombre,21,Arma de fuego,San Miguel,#0803,8
+2011-03-20 17:40:00-05:00,Mujer,30,Arma cortopunzante,Veinte de Julio,#1310,13
+2011-03-20 05:00:00-05:00,Hombre,65,Arma cortopunzante,La Libertad,#0812,8
+2011-03-20 19:30:00-05:00,Hombre,35,No,La Aguacatala,#1422,14
+2011-03-20 17:40:00-05:00,Mujer,30,Arma cortopunzante,Veinte de Julio,#1310,13
+2011-03-21 00:15:00-05:00,Hombre,23,No,Patio Bonito,#1421,14
+2011-03-21 03:40:00-05:00,Hombre,29,No,Guayabal,#1510,15
+2011-03-22 11:15:00-05:00,Hombre,23,Arma de fuego,La Colina,#1511,15
+2011-03-22 16:40:00-05:00,Hombre,30,Arma cortopunzante,La Candelaria,#1019,10
+2011-03-22 14:10:00-05:00,Hombre,58,Arma de fuego,Boston,#1016,10
+2011-03-22 13:10:00-05:00,Hombre,24,No,Villa Carlota,#1403,14
+2011-03-22 16:00:00-05:00,Hombre,25,No,Bolivariana,#1107,11
+2011-03-22 15:15:00-05:00,Hombre,29,Arma cortopunzante,Patio Bonito,#1421,14
+2011-03-23 22:50:00-05:00,Mujer,37,Arma cortopunzante,Boston,#1016,10
+2011-03-23 14:30:00-05:00,Hombre,20,Arma de fuego,Perpetuo Socorro,#1012,10
+2011-03-23 12:35:00-05:00,Hombre,27,Arma de fuego,Los Colores,#1114,11
+2011-03-23 14:30:00-05:00,Hombre,20,Arma cortopunzante,Suramericana,#1102,11
+2011-03-23 12:35:00-05:00,Hombre,22,Arma de fuego,Los Colores,#1114,11
+2011-03-23 14:30:00-05:00,Hombre,20,Arma cortopunzante,Suramericana,#1102,11
+2011-03-24 13:27:00-05:00,Mujer,45,Arma de fuego,Los Conquistadores,#1105,11
+2011-03-24 20:40:00-05:00,Hombre,42,Arma de fuego,Fátima,#1601,16
+2011-03-24 15:00:00-05:00,Hombre,29,Sin dato,San Joaquín,#1104,11
+2011-03-24 00:01:00-05:00,Hombre,27,Arma cortopunzante,Sevilla,#0407,4
+2011-03-24 20:40:00-05:00,Hombre,42,Arma de fuego,Fátima,#1601,16
+2011-03-25 00:05:00-05:00,Mujer,35,Objeto contundente,Manila,#1419,14
+2011-03-25 01:00:00-05:00,Mujer,44,Arma cortopunzante,La Candelaria,#1019,10
+2011-03-25 14:45:00-05:00,Hombre,22,No,La Candelaria,#1019,10
+2011-03-25 04:00:00-05:00,Hombre,42,No,Santo Domingo Savio No.2,#0102,1
+2011-03-25 20:30:00-05:00,Hombre,24,Arma de fuego,Villa Carlota,#1403,14
+2011-03-25 18:56:00-05:00,Hombre,27,No,San Isidro,#0402,4
+2011-03-25 10:15:00-05:00,Mujer,22,No,Laureles,#1108,11
+2011-03-25 01:00:00-05:00,Mujer,44,Arma cortopunzante,La Candelaria,#1019,10
+2011-03-25 20:30:00-05:00,Sin dato,-1,Arma de fuego,Villa Carlota,#1403,14
+2011-03-26 11:40:00-05:00,Mujer,32,Arma de fuego,El Salvador,#0912,9
+2011-03-26 17:35:00-05:00,Mujer,72,Arma cortopunzante,Manila,#1419,14
+2011-03-26 00:05:00-05:00,Mujer,18,No,Universidad Nacional,#Inst_8,7
+2011-03-26 01:15:00-05:00,Hombre,33,No,Caribe,#0517,5
+2011-03-26 10:30:00-05:00,Hombre,19,No,Manrique Central No.1,#0409,4
+2011-03-26 04:35:00-05:00,Hombre,20,Arma cortopunzante,Universidad de Antioquia,#Inst_11,4
+2011-03-26 12:05:00-05:00,Hombre,46,Arma de fuego,Caribe,#0517,5
+2011-03-26 17:35:00-05:00,Mujer,72,Arma cortopunzante,Manila,#1419,14
+2011-03-26 01:15:00-05:00,Hombre,33,No,Caribe,#0517,5
+2011-03-26 01:15:00-05:00,Hombre,33,No,Caribe,#0517,5
+2011-03-26 01:15:00-05:00,Hombre,33,No,Caribe,#0517,5
+2011-03-26 01:15:00-05:00,Hombre,33,No,Caribe,#0517,5
+2011-03-26 01:15:00-05:00,Hombre,33,No,Caribe,#0517,5
+2011-03-26 12:05:00-05:00,Hombre,46,Arma de fuego,Caribe,#0517,5
+2011-03-26 12:05:00-05:00,Hombre,46,Arma de fuego,Caribe,#0517,5
+2011-03-27 12:00:00-05:00,Mujer,39,No,Perpetuo Socorro,#1012,10
+2011-03-27 03:00:00-05:00,Hombre,18,No,Guayabal,#1510,15
+2011-03-27 12:30:00-05:00,Mujer,31,No,Santa Fé,#1504,15
+2011-03-27 02:10:00-05:00,Hombre,28,Arma de fuego,La Loma de los Bernal,#1611,16
+2011-03-27 13:15:00-05:00,Mujer,55,Arma cortopunzante,Jesús Nazareno,#1003,10
+2011-03-27 02:10:00-05:00,Hombre,28,Arma de fuego,La Loma de los Bernal,#1611,16
+2011-03-27 02:10:00-05:00,Hombre,28,Arma de fuego,La Loma de los Bernal,#1611,16
+2011-03-28 10:40:00-05:00,Hombre,43,Arma cortopunzante,Astorga,#1420,14
+2011-03-28 19:00:00-05:00,Mujer,26,No,San Diego,#1020,10
+2011-03-28 00:05:00-05:00,Hombre,51,No,Prado,#1001,10
+2011-03-28 00:20:00-05:00,Hombre,18,Arma de fuego,La Florida,#1417,14
+2011-03-28 11:15:00-05:00,Hombre,53,Sin dato,El Poblado,#1418,14
+2011-03-28 19:00:00-05:00,Mujer,26,No,San Diego,#1020,10
+2011-03-28 00:20:00-05:00,Hombre,18,Arma de fuego,La Florida,#1417,14
+2011-03-29 02:10:00-05:00,Mujer,17,No,La Candelaria,#1019,10
+2011-03-29 13:00:00-05:00,Mujer,36,No,La Candelaria,#1019,10
+2011-03-30 14:00:00-05:00,Hombre,37,Arma de fuego,Bolivariana,#1107,11
+2011-03-30 08:00:00-05:00,Hombre,23,No,Boston,#1016,10
+2011-03-30 14:45:00-05:00,Mujer,50,No,Córdoba,#0709,7
+2011-03-30 12:20:00-05:00,Mujer,28,No,La Candelaria,#1019,10
+2011-03-30 20:45:00-05:00,Hombre,23,Arma cortopunzante,Villa Nueva,#1018,10
+2011-03-30 08:00:00-05:00,Hombre,51,No,Jardín Botánico,#Inst_10,4
+2011-03-30 09:30:00-05:00,Mujer,27,Objeto contundente,Jesús Nazareno,#1003,10
+2011-03-30 14:55:00-05:00,Mujer,43,No,Florida Nueva,#1117,11
+2011-03-30 23:55:00-05:00,Hombre,54,No,Los Colores,#1114,11
+2011-03-30 09:30:00-05:00,Mujer,27,Objeto contundente,Jesús Nazareno,#1003,10
+2011-03-30 23:55:00-05:00,Hombre,54,No,Los Colores,#1114,11
+2011-03-31 06:30:00-05:00,Mujer,48,Arma de fuego,San Miguel,#0803,8
+2011-03-31 20:05:00-05:00,Hombre,24,No,Laureles,#1108,11
+2011-03-31 13:40:00-05:00,Mujer,51,Arma de fuego,Buenos Aires,#0907,9
+2011-03-31 14:45:00-05:00,Hombre,26,Sin dato,Belén,#1603,16
+2011-03-31 14:45:00-05:00,Hombre,26,Sin dato,Belén,#1603,16
+2011-04-01 19:00:00-05:00,Mujer,16,No,La Candelaria,#1019,10
+2011-04-01 11:20:00-05:00,Mujer,27,Arma de fuego,Estadio,#1113,11
+2011-04-01 15:40:00-05:00,Hombre,21,No,Bolivariana,#1107,11
+2011-04-01 16:45:00-05:00,Hombre,22,Arma cortopunzante,La Alpujarra,#Inst_16,10
+2011-04-01 12:30:00-05:00,Hombre,54,Arma de fuego,La Candelaria,#1019,10
+2011-04-01 16:56:00-05:00,Mujer,31,Sin dato,Área Urbana Cgto. San Antonio de Prado,#AUC2,80
+2011-04-01 18:00:00-05:00,Mujer,31,No,San Diego,#1020,10
+2011-04-01 16:15:00-05:00,Mujer,53,No,Castilla,#0511,5
+2011-04-01 12:30:00-05:00,Hombre,54,Arma de fuego,La Candelaria,#1019,10
+2011-04-01 12:30:00-05:00,Hombre,54,Arma de fuego,La Candelaria,#1019,10
+2011-04-02 16:30:00-05:00,Hombre,33,Arma de fuego,Caribe,#0517,5
+2011-04-02 12:00:00-05:00,Hombre,23,Sin dato,Calle Nueva,#1011,10
+2011-04-02 10:20:00-05:00,Mujer,19,Sin dato,La Candelaria,#1019,10
+2011-04-02 07:00:00-05:00,Mujer,26,Sin dato,San Miguel,#0803,8
+2011-04-02 12:09:00-05:00,Mujer,51,Arma de fuego,Las Lomas No.1,#1406,14
+2011-04-02 14:00:00-05:00,Mujer,33,Sin dato,San Diego,#1020,10
+2011-04-02 16:30:00-05:00,Hombre,33,Arma de fuego,Caribe,#0517,5
+2011-04-02 16:30:00-05:00,Hombre,33,Arma de fuego,Caribe,#0517,5
+2011-04-02 16:30:00-05:00,Hombre,33,Arma de fuego,Caribe,#0517,5
+2011-04-02 10:20:00-05:00,Mujer,19,Sin dato,La Candelaria,#1019,10
+2011-04-02 14:00:00-05:00,Mujer,33,Sin dato,San Diego,#1020,10
+2011-04-02 14:00:00-05:00,Mujer,33,Sin dato,San Diego,#1020,10
+2011-04-03 20:30:00-05:00,Hombre,22,Arma cortopunzante,Los Balsos No.2,#1415,14
+2011-04-03 00:15:00-05:00,Mujer,21,No,Florida Nueva,#1117,11
+2011-04-03 00:10:00-05:00,Hombre,30,No,Guayaquil,#1007,10
+2011-04-03 13:00:00-05:00,Mujer,19,No,Castropol,#1404,14
+2011-04-04 23:20:00-05:00,Hombre,32,No,Caribe,#0517,5
+2011-04-04 15:00:00-05:00,Mujer,30,No,Los Alpes,#1615,16
+2011-04-04 13:00:00-05:00,Mujer,28,No,Manila,#1419,14
+2011-04-04 14:00:00-05:00,Hombre,23,No,Girardot,#0509,5
+2011-04-04 14:00:00-05:00,Hombre,23,No,Girardot,#0509,5
+2011-04-05 11:00:00-05:00,Hombre,28,Arma cortopunzante,La Candelaria,#1019,10
+2011-04-05 12:10:00-05:00,Hombre,19,Arma cortopunzante,San Benito,#1006,10
+2011-04-05 12:00:00-05:00,Mujer,17,Arma cortopunzante,La Candelaria,#1019,10
+2011-04-05 15:15:00-05:00,Hombre,36,Arma de fuego,Alfonso López,#0514,5
+2011-04-05 15:15:00-05:00,Hombre,36,Arma de fuego,Alfonso López,#0514,5
+2011-04-06 20:00:00-05:00,Hombre,35,Arma de fuego,Boston,#1016,10
+2011-04-06 00:10:00-05:00,Hombre,12,No,Manila,#1419,14
+2011-04-06 11:20:00-05:00,Hombre,22,Sin dato,Cristo Rey,#1509,15
+2011-04-06 12:20:00-05:00,Hombre,19,Arma cortopunzante,La Candelaria,#1019,10
+2011-04-06 00:45:00-05:00,Hombre,30,Arma cortopunzante,La Candelaria,#1019,10
+2011-04-06 12:30:00-05:00,Mujer,40,No,Barrio Colombia,#1401,14
+2011-04-06 16:00:00-05:00,Hombre,26,Arma cortopunzante,Caribe,#0517,5
+2011-04-06 20:00:00-05:00,Hombre,35,Arma de fuego,Boston,#1016,10
+2011-04-07 12:55:00-05:00,Hombre,16,No,Los Pinos,#1203,12
+2011-04-07 08:20:00-05:00,Mujer,43,No,Villa Carlota,#1403,14
+2011-04-07 16:00:00-05:00,Hombre,68,No,La Candelaria,#1019,10
+2011-04-07 08:35:00-05:00,Hombre,42,No,Patio Bonito,#1421,14
+2011-04-07 13:49:00-05:00,Mujer,43,No,Popular,#0103,1
+2011-04-08 01:30:00-05:00,Mujer,24,No,Los Conquistadores,#1105,11
+2011-04-08 04:20:00-05:00,Mujer,21,No,Manila,#1419,14
+2011-04-08 20:30:00-05:00,Mujer,27,Arma de fuego,Lorena,#1111,11
+2011-04-08 18:30:00-05:00,Mujer,36,No,La Candelaria,#1019,10
+2011-04-08 16:30:00-05:00,Hombre,17,Arma cortopunzante,B. Cerro el Volador,#0702,7
+2011-04-08 20:30:00-05:00,Mujer,27,Arma de fuego,Lorena,#1111,11
+2011-04-08 20:30:00-05:00,Mujer,27,Arma de fuego,Lorena,#1111,11
+2011-04-09 16:35:00-05:00,Mujer,26,No,Villa Nueva,#1018,10
+2011-04-09 00:50:00-05:00,Hombre,20,No,Guayaquil,#1007,10
+2011-04-09 20:00:00-05:00,Hombre,13,Arma cortopunzante,El Nogal-Los Almendros,#1620,16
+2011-04-10 17:40:00-05:00,Hombre,17,No,Lorena,#1111,11
+2011-04-10 09:20:00-05:00,Mujer,25,Sin dato,Suramericana,#1102,11
+2011-04-10 22:00:00-05:00,Hombre,25,Arma de fuego,Santa Teresita,#1212,12
+2011-04-10 00:54:00-05:00,Mujer,31,Sin dato,Lalinde,#1405,14
+2011-04-10 18:50:00-05:00,Mujer,19,No,Guayaquil,#1007,10
+2011-04-10 17:40:00-05:00,Hombre,17,No,Lorena,#1111,11
+2011-04-10 09:20:00-05:00,Mujer,25,Sin dato,Suramericana,#1102,11
+2011-04-10 09:20:00-05:00,Mujer,25,Sin dato,Suramericana,#1102,11
+2011-04-10 22:00:00-05:00,Hombre,25,Arma de fuego,Santa Teresita,#1212,12
+2011-04-11 20:45:00-05:00,Hombre,25,Arma de fuego,Barrio Colón,#1013,10
+2011-04-11 08:00:00-05:00,Mujer,37,No,Alejandría,#1416,14
+2011-04-11 10:30:00-05:00,Hombre,21,Arma de fuego,Patio Bonito,#1421,14
+2011-04-11 02:00:00-05:00,Hombre,30,No,La Aguacatala,#1422,14
+2011-04-11 20:45:00-05:00,Hombre,25,Arma de fuego,Barrio Colón,#1013,10
+2011-04-11 20:45:00-05:00,Hombre,25,Arma de fuego,Barrio Colón,#1013,10
+2011-04-11 20:45:00-05:00,Hombre,25,Arma de fuego,Barrio Colón,#1013,10
+2011-04-11 10:30:00-05:00,Hombre,21,Arma de fuego,Patio Bonito,#1421,14
+2011-04-11 02:00:00-05:00,Hombre,30,No,La Aguacatala,#1422,14
+2011-04-12 00:10:00-05:00,Hombre,26,No,La Castellana,#1110,11
+2011-04-12 00:50:00-05:00,Hombre,38,Arma cortopunzante,Barrio Caycedo,#0906,9
+2011-04-12 09:00:00-05:00,Hombre,21,No,Campo Valdés No.1,#0410,4
+2011-04-13 12:45:00-05:00,Hombre,45,Sin dato,Alejandría,#1416,14
+2011-04-13 17:00:00-05:00,Mujer,31,No,Los Colores,#1114,11
+2011-04-13 00:05:00-05:00,Mujer,34,No,Los Balsos No.2,#1415,14
+2011-04-13 00:10:00-05:00,Mujer,32,No,La Aguacatala,#1422,14
+2011-04-13 18:15:00-05:00,Mujer,26,No,Universidad de Antioquia,#Inst_11,4
+2011-04-13 14:20:00-05:00,Mujer,58,No,Guayabal,#1510,15
+2011-04-13 13:35:00-05:00,Hombre,55,No,La Candelaria,#1019,10
+2011-04-13 12:45:00-05:00,Hombre,45,Sin dato,Alejandría,#1416,14
+2011-04-14 12:00:00-05:00,Hombre,33,Arma de fuego,San Diego,#1020,10
+2011-04-14 17:42:00-05:00,Mujer,23,No,La Candelaria,#1019,10
+2011-04-14 00:03:00-05:00,Mujer,34,No,Villa Carlota,#1403,14
+2011-04-14 12:10:00-05:00,Hombre,17,No,La Candelaria,#1019,10
+2011-04-14 12:00:00-05:00,Hombre,33,Arma de fuego,San Diego,#1020,10
+2011-04-14 12:00:00-05:00,Hombre,33,Arma de fuego,San Diego,#1020,10
+2011-04-14 00:03:00-05:00,Mujer,34,No,Villa Carlota,#1403,14
+2011-04-14 00:03:00-05:00,Mujer,34,No,Villa Carlota,#1403,14
+2011-04-15 03:50:00-05:00,Hombre,23,No,El Poblado,#1418,14
+2011-04-15 18:12:00-05:00,Hombre,23,Arma cortopunzante,Sevilla,#0407,4
+2011-04-15 23:15:00-05:00,Hombre,38,Arma cortopunzante,Sucre,#0809,8
+2011-04-15 14:00:00-05:00,Mujer,17,No,Terminal de Transporte,#Inst_4,5
+2011-04-15 20:00:00-05:00,Hombre,38,Sin dato,La Aguacatala,#1422,14
+2011-04-15 20:30:00-05:00,Hombre,46,Arma de fuego,Facultad de Minas U. Nal,#Inst_5,7
+2011-04-15 23:15:00-05:00,Hombre,38,Arma cortopunzante,Sucre,#0809,8
+2011-04-16 14:30:00-05:00,Hombre,27,Arma cortopunzante,La Candelaria,#1019,10
+2011-04-16 18:25:00-05:00,Mujer,42,Arma cortopunzante,El Chagualo,#1004,10
+2011-04-16 19:25:00-05:00,Hombre,18,Arma cortopunzante,Suramericana,#1102,11
+2011-04-16 12:15:00-05:00,Hombre,22,Arma cortopunzante,San Diego,#1020,10
+2011-04-16 12:00:00-05:00,Mujer,32,Sin dato,Los Conquistadores,#1105,11
+2011-04-16 14:30:00-05:00,Hombre,29,Sin dato,Calle Nueva,#1011,10
+2011-04-16 17:30:00-05:00,Mujer,39,No,Naranjal,#1103,11
+2011-04-16 16:10:00-05:00,Hombre,30,Arma cortopunzante,La Aguacatala,#1422,14
+2011-04-16 12:00:00-05:00,Mujer,32,Sin dato,Los Conquistadores,#1105,11
+2011-04-16 12:00:00-05:00,Mujer,32,Sin dato,Los Conquistadores,#1105,11
+2011-04-16 14:30:00-05:00,Hombre,29,Sin dato,Calle Nueva,#1011,10
+2011-04-16 14:30:00-05:00,Hombre,29,Sin dato,Calle Nueva,#1011,10
+2011-04-17 09:00:00-05:00,Mujer,20,No,El Poblado,#1418,14
+2011-04-17 08:30:00-05:00,Hombre,34,No,Astorga,#1420,14
+2011-04-17 17:40:00-05:00,Hombre,21,No,Los Ángeles,#1017,10
+2011-04-17 10:30:00-05:00,Mujer,38,No,Campo Amor,#1507,15
+2011-04-17 09:00:00-05:00,Mujer,20,No,El Poblado,#1418,14
+2011-04-18 15:30:00-05:00,Hombre,72,Arma de fuego,Prado,#1001,10
+2011-04-18 15:20:00-05:00,Hombre,24,No,Villa Carlota,#1403,14
+2011-04-18 12:45:00-05:00,Hombre,16,Objeto contundente,San Javier No.1,#1309,13
+2011-04-18 15:30:00-05:00,Hombre,72,Arma de fuego,Prado,#1001,10
+2011-04-19 07:40:00-05:00,Mujer,31,No,La Candelaria,#1019,10
+2011-04-20 11:30:00-05:00,Hombre,31,Arma de fuego,Castropol,#1404,14
+2011-04-20 17:40:00-05:00,Mujer,19,No,Francisco Antonio Zea,#0513,5
+2011-04-20 19:15:00-05:00,Hombre,19,No,Altos del Poblado,#1408,14
+2011-04-20 12:50:00-05:00,Mujer,19,Arma cortopunzante,Nueva Villa de la Iguaná,#0725,7
+2011-04-20 20:30:00-05:00,Mujer,22,Arma de fuego,Progreso,#0519,5
+2011-04-20 12:50:00-05:00,Hombre,35,Sin dato,Barrio Colombia,#1401,14
+2011-04-20 19:15:00-05:00,Hombre,19,No,Altos del Poblado,#1408,14
+2011-04-20 20:30:00-05:00,Mujer,22,Arma de fuego,Progreso,#0519,5
+2011-04-20 20:30:00-05:00,Mujer,22,Arma de fuego,Progreso,#0519,5
+2011-04-20 20:30:00-05:00,Mujer,22,Arma de fuego,Progreso,#0519,5
+2011-04-21 02:30:00-05:00,Hombre,38,No,La Mansión,#0802,8
+2011-04-21 13:20:00-05:00,Mujer,28,No,Boston,#1016,10
+2011-04-21 13:40:00-05:00,Hombre,50,Sin dato,Manila,#1419,14
+2011-04-21 18:00:00-05:00,Hombre,42,Sin dato,Perpetuo Socorro,#1012,10
+2011-04-21 09:00:00-05:00,Mujer,49,No,San Benito,#1006,10
+2011-04-21 13:40:00-05:00,Hombre,50,Sin dato,Manila,#1419,14
+2011-04-21 18:00:00-05:00,Hombre,42,Sin dato,Perpetuo Socorro,#1012,10
+2011-04-21 18:00:00-05:00,Hombre,42,Sin dato,Perpetuo Socorro,#1012,10
+2011-04-21 18:00:00-05:00,Hombre,42,Sin dato,Perpetuo Socorro,#1012,10
+2011-04-21 09:00:00-05:00,Mujer,49,No,San Benito,#1006,10
+2011-04-21 09:00:00-05:00,Mujer,49,No,San Benito,#1006,10
+2011-04-21 09:00:00-05:00,Mujer,49,No,San Benito,#1006,10
+2011-04-22 16:55:00-05:00,Hombre,46,No,La Candelaria,#1019,10
+2011-04-22 15:45:00-05:00,Mujer,21,No,Villa Carlota,#1403,14
+2011-04-23 13:20:00-05:00,Hombre,32,No,Granada,#1604,16
+2011-04-23 18:00:00-05:00,Hombre,17,No,La Candelaria,#1019,10
+2011-04-24 00:10:00-05:00,Mujer,25,No,Naranjal,#1103,11
+2011-04-24 13:15:00-05:00,Hombre,49,No,Patio Bonito,#1421,14
+2011-04-24 00:30:00-05:00,Hombre,29,Arma cortopunzante,Manila,#1419,14
+2011-04-24 00:10:00-05:00,Mujer,25,No,Naranjal,#1103,11
+2011-04-24 00:10:00-05:00,Mujer,25,No,Naranjal,#1103,11
+2011-04-24 00:30:00-05:00,Hombre,29,Arma cortopunzante,Manila,#1419,14
+2011-04-25 18:18:00-05:00,Mujer,26,Arma de fuego,Boston,#1016,10
+2011-04-25 11:50:00-05:00,Mujer,68,No,La Candelaria,#1019,10
+2011-04-25 19:05:00-05:00,Mujer,37,No,Villa Carlota,#1403,14
+2011-04-25 20:40:00-05:00,Mujer,23,No,Villa Nueva,#1018,10
+2011-04-25 15:30:00-05:00,Hombre,19,Arma de fuego,La Colina,#1511,15
+2011-04-25 18:00:00-05:00,Hombre,81,No,La Aguacatala,#1422,14
+2011-04-25 19:15:00-05:00,Hombre,33,No,Caribe,#0517,5
+2011-04-25 22:00:00-05:00,Hombre,42,Arma de fuego,Suramericana,#1102,11
+2011-04-25 18:18:00-05:00,Mujer,26,Arma de fuego,Boston,#1016,10
+2011-04-25 11:50:00-05:00,Mujer,68,No,La Candelaria,#1019,10
+2011-04-25 19:15:00-05:00,Hombre,33,No,Caribe,#0517,5
+2011-04-25 22:00:00-05:00,Hombre,42,Arma de fuego,Suramericana,#1102,11
+2011-04-25 22:00:00-05:00,Hombre,42,Arma de fuego,Suramericana,#1102,11
+2011-04-26 12:55:00-05:00,Mujer,24,No,Santa Fé,#1504,15
+2011-04-26 18:28:00-05:00,Hombre,20,Arma cortopunzante,Asomadera No.1,#0914,9
+2011-04-26 18:55:00-05:00,Hombre,23,No,Nueva Villa de la Iguaná,#0725,7
+2011-04-26 17:55:00-05:00,Hombre,25,No,Suramericana,#1102,11
+2011-04-26 22:00:00-05:00,Mujer,57,No,San Joaquín,#1104,11
+2011-04-27 10:30:00-05:00,Hombre,51,No,La Candelaria,#1019,10
+2011-04-27 08:00:00-05:00,Hombre,32,Sin dato,Asomadera No.1,#0914,9
+2011-04-27 16:20:00-05:00,Mujer,30,No,Astorga,#1420,14
+2011-04-28 11:40:00-05:00,Hombre,22,Arma de fuego,Los Pinos,#1203,12
+2011-04-28 00:01:00-05:00,Hombre,26,No,Astorga,#1420,14
+2011-04-28 16:30:00-05:00,Hombre,75,Arma cortopunzante,Campo Valdés No.2,#0303,3
+2011-04-28 08:55:00-05:00,Mujer,36,No,La Candelaria,#1019,10
+2011-04-28 13:10:00-05:00,Hombre,23,No,La Candelaria,#1019,10
+2011-04-28 07:00:00-05:00,Hombre,67,Sin dato,Sin dato,SIN DATO,SIN DATO
+2011-04-28 11:40:00-05:00,Hombre,22,Arma de fuego,Los Pinos,#1203,12
+2011-04-28 11:40:00-05:00,Hombre,22,Arma de fuego,Los Pinos,#1203,12
+2011-04-29 11:45:00-05:00,Hombre,20,Arma de fuego,Las Acacias,#1109,11
+2011-04-29 12:15:00-05:00,Hombre,77,Arma de fuego,San Diego,#1020,10
+2011-04-29 08:35:00-05:00,Mujer,20,Arma cortopunzante,El Chagualo,#1004,10
+2011-04-29 08:35:00-05:00,Mujer,20,Arma cortopunzante,El Chagualo,#1004,10
+2011-04-30 20:05:00-05:00,Mujer,32,Arma cortopunzante,La Pilarica,#0706,7
+2011-04-30 14:10:00-05:00,Hombre,45,No,La Candelaria,#1019,10
+2011-04-30 19:10:00-05:00,Hombre,24,No,Calle Nueva,#1011,10
+2011-04-30 14:00:00-05:00,Mujer,18,No,El Poblado,#1418,14
+2011-04-30 14:00:00-05:00,Mujer,18,No,El Poblado,#1418,14
+2011-05-01 18:10:00-05:00,Hombre,15,Arma cortopunzante,Patio Bonito,#1421,14
+2011-05-01 15:45:00-05:00,Mujer,15,No,Barrio Colón,#1013,10
+2011-05-01 06:45:00-05:00,Mujer,27,Arma cortopunzante,Caribe,#0517,5
+2011-05-01 11:45:00-05:00,Hombre,40,Arma de fuego,San Lucas,#1412,14
+2011-05-01 06:45:00-05:00,Mujer,27,Arma cortopunzante,Caribe,#0517,5
+2011-05-02 16:30:00-05:00,Mujer,42,Arma cortopunzante,Belén,#1603,16
+2011-05-02 19:00:00-05:00,Mujer,33,Arma de fuego,Santa Fé,#1504,15
+2011-05-02 13:26:00-05:00,Hombre,23,No,La Candelaria,#1019,10
+2011-05-02 11:20:00-05:00,Mujer,17,Arma cortopunzante,Trinidad,#1503,15
+2011-05-02 19:00:00-05:00,Mujer,33,Arma de fuego,Santa Fé,#1504,15
+2011-05-02 11:20:00-05:00,Mujer,17,Arma cortopunzante,Trinidad,#1503,15
+2011-05-03 02:05:00-05:00,Mujer,28,Arma de fuego,Guayabal,#1510,15
+2011-05-03 00:05:00-05:00,Hombre,28,Arma cortopunzante,Castropol,#1404,14
+2011-05-03 14:00:00-05:00,Hombre,30,No,La Aguacatala,#1422,14
+2011-05-03 11:30:00-05:00,Mujer,21,No,Campo Valdés No.1,#0410,4
+2011-05-03 10:30:00-05:00,Hombre,34,Arma cortopunzante,Barrio Colombia,#1401,14
+2011-05-03 02:05:00-05:00,Mujer,28,Arma de fuego,Guayabal,#1510,15
+2011-05-03 10:30:00-05:00,Hombre,34,Arma cortopunzante,Barrio Colombia,#1401,14
+2011-05-03 10:30:00-05:00,Hombre,34,Arma cortopunzante,Barrio Colombia,#1401,14
+2011-05-04 17:00:00-05:00,Hombre,41,No,Las Independencias,#1314,13
+2011-05-04 02:15:00-05:00,Hombre,40,No,San Diego,#1020,10
+2011-05-04 12:26:00-05:00,Mujer,31,No,San Diego,#1020,10
+2011-05-04 16:50:00-05:00,Mujer,34,No,Villa Nueva,#1018,10
+2011-05-04 05:05:00-05:00,Hombre,24,Arma cortopunzante,Sevilla,#0407,4
+2011-05-04 12:50:00-05:00,Hombre,47,No,Manila,#1419,14
+2011-05-05 01:12:00-05:00,Mujer,18,No,Barrio Colón,#1013,10
+2011-05-05 01:35:00-05:00,Hombre,35,Arma de fuego,Loreto,#0913,9
+2011-05-07 17:00:00-05:00,Hombre,45,No,San Bernardo,#1605,16
+2011-05-07 23:08:00-05:00,Mujer,20,Arma cortopunzante,San Bernardo,#1605,16
+2011-05-08 01:00:00-05:00,Mujer,49,Arma cortopunzante,La Candelaria,#1019,10
+2011-05-08 01:15:00-05:00,Hombre,51,Arma cortopunzante,Naranjal,#1103,11
+2011-05-08 13:00:00-05:00,Mujer,21,Arma cortopunzante,Barrio Colombia,#1401,14
+2011-05-08 06:35:00-05:00,Hombre,57,Arma de fuego,El Salado,#1316,13
+2011-05-08 01:15:00-05:00,Hombre,51,Arma cortopunzante,Naranjal,#1103,11
+2011-05-08 06:35:00-05:00,Hombre,57,Arma de fuego,El Salado,#1316,13
+2011-05-09 05:40:00-05:00,Mujer,34,Arma de fuego,Las Esmeraldas,#0411,4
+2011-05-09 10:00:00-05:00,Hombre,39,Arma de fuego,San Isidro,#0402,4
+2011-05-09 18:20:00-05:00,Mujer,21,Arma cortopunzante,La Candelaria,#1019,10
+2011-05-09 01:00:00-05:00,Mujer,23,Arma cortopunzante,La Candelaria,#1019,10
+2011-05-09 08:00:00-05:00,Mujer,44,Sin dato,El Tesoro,#1409,14
+2011-05-09 22:00:00-05:00,Hombre,25,Arma de fuego,Moravia,#0405,4
+2011-05-09 22:00:00-05:00,Hombre,25,Arma de fuego,Moravia,#0405,4
+2011-05-09 22:00:00-05:00,Hombre,25,Arma de fuego,Moravia,#0405,4
+2011-05-09 22:00:00-05:00,Hombre,25,Arma de fuego,Moravia,#0405,4
+2011-05-10 20:40:00-05:00,Hombre,34,Arma cortopunzante,La Candelaria,#1019,10
+2011-05-10 07:40:00-05:00,Hombre,26,Arma cortopunzante,Villa Nueva,#1018,10
+2011-05-10 02:40:00-05:00,Hombre,22,Arma de fuego,El Poblado,#1418,14
+2011-05-10 16:35:00-05:00,Mujer,38,No,Prado,#1001,10
+2011-05-11 17:15:00-05:00,Hombre,52,Arma de fuego,La Candelaria,#1019,10
+2011-05-11 19:26:00-05:00,Hombre,28,Arma de fuego,La Candelaria,#1019,10
+2011-05-11 23:00:00-05:00,Hombre,34,Arma cortopunzante,Cerro Nutibara Ins.,#Inst_18,16
+2011-05-11 23:00:00-05:00,Hombre,34,Arma cortopunzante,Cerro Nutibara Ins.,#Inst_18,16
+2011-05-12 17:50:00-05:00,Mujer,14,Arma cortopunzante,Patio Bonito,#1421,14
+2011-05-12 23:05:00-05:00,Hombre,43,Arma de fuego,Miravalle,#1619,16
+2011-05-12 20:15:00-05:00,Mujer,23,No,Progreso,#0519,5
+2011-05-12 00:20:00-05:00,Hombre,31,No,La Palma,#1614,16
+2011-05-12 11:00:00-05:00,Hombre,31,Arma cortopunzante,San Lucas,#1412,14
+2011-05-13 06:00:00-05:00,Hombre,22,Arma de fuego,San Joaquín,#1104,11
+2011-05-13 14:00:00-05:00,Mujer,47,Arma de fuego,El Nogal-Los Almendros,#1620,16
+2011-05-13 06:00:00-05:00,Hombre,22,Arma de fuego,San Joaquín,#1104,11
+2011-05-13 06:00:00-05:00,Hombre,22,Arma de fuego,San Joaquín,#1104,11
+2011-05-13 14:00:00-05:00,Mujer,47,Arma de fuego,El Nogal-Los Almendros,#1620,16
+2011-05-13 14:00:00-05:00,Mujer,47,Arma de fuego,El Nogal-Los Almendros,#1620,16
+2011-05-13 14:00:00-05:00,Mujer,47,Arma de fuego,El Nogal-Los Almendros,#1620,16
+2011-05-14 15:20:00-05:00,Mujer,31,Arma de fuego,Las Acacias,#1109,11
+2011-05-14 00:20:00-05:00,Hombre,44,Escopolamina,La América,#1204,12
+2011-05-14 16:45:00-05:00,Hombre,20,Arma de fuego,Las Playas,#1606,16
+2011-05-14 15:20:00-05:00,Mujer,31,Arma de fuego,Las Acacias,#1109,11
+2011-05-14 15:20:00-05:00,Mujer,31,Arma de fuego,Las Acacias,#1109,11
+2011-05-14 00:20:00-05:00,Hombre,44,Escopolamina,La América,#1204,12
+2011-05-14 00:20:00-05:00,Hombre,44,Escopolamina,La América,#1204,12
+2011-05-14 00:20:00-05:00,Hombre,44,Escopolamina,La América,#1204,12
+2011-05-14 00:20:00-05:00,Hombre,44,Escopolamina,La América,#1204,12
+2011-05-14 00:20:00-05:00,Hombre,44,Escopolamina,La América,#1204,12
+2011-05-15 04:00:00-05:00,Mujer,27,No,El Poblado,#1418,14
+2011-05-15 00:05:00-05:00,Hombre,46,Arma cortopunzante,Bosques de San Pablo,#0707,7
+2011-05-15 09:00:00-05:00,Hombre,31,Arma de fuego,Sin dato,SIN DATO,SIN DATO
+2011-05-15 04:00:00-05:00,Mujer,27,No,El Poblado,#1418,14
+2011-05-16 15:40:00-05:00,Mujer,25,No,Campo Amor,#1507,15
+2011-05-16 15:50:00-05:00,Hombre,40,No,Las Acacias,#1109,11
+2011-05-16 23:00:00-05:00,Hombre,31,No,Prado,#1001,10
+2011-05-17 11:50:00-05:00,Mujer,18,Arma cortopunzante,La Aguacatala,#1422,14
+2011-05-17 14:00:00-05:00,Mujer,53,No,La Candelaria,#1019,10
+2011-05-17 14:00:00-05:00,Mujer,53,No,La Candelaria,#1019,10
+2011-05-18 00:05:00-05:00,Hombre,50,Arma de fuego,San Diego,#1020,10
+2011-05-18 09:04:00-05:00,Hombre,46,Arma cortopunzante,Naranjal,#1103,11
+2011-05-18 11:20:00-05:00,Hombre,43,Arma cortopunzante,La Esperanza,#0605,6
+2011-05-18 10:00:00-05:00,Hombre,32,Arma cortopunzante,Barrio Colón,#1013,10
+2011-05-19 07:00:00-05:00,Mujer,24,No,La Candelaria,#1019,10
+2011-05-19 05:30:00-05:00,Hombre,33,No,El Socorro,#1319,13
+2011-05-20 15:00:00-05:00,Hombre,19,No,La Candelaria,#1019,10
+2011-05-20 01:20:00-05:00,Hombre,52,No,Barrio Colón,#1013,10
+2011-05-21 05:00:00-05:00,Hombre,38,Arma de fuego,El Chagualo,#1004,10
+2011-05-21 07:00:00-05:00,Mujer,42,Arma de fuego,Calasanz,#1202,12
+2011-05-21 05:30:00-05:00,Hombre,30,Arma de fuego,Enciso,#0808,8
+2011-05-21 00:05:00-05:00,Hombre,31,No,La Candelaria,#1019,10
+2011-05-21 19:30:00-05:00,Hombre,28,Arma de fuego,Castilla,#0511,5
+2011-05-21 22:00:00-05:00,Mujer,31,No,La Aguacatala,#1422,14
+2011-05-21 19:30:00-05:00,Hombre,28,Arma de fuego,Castilla,#0511,5
+2011-05-21 22:00:00-05:00,Mujer,31,No,La Aguacatala,#1422,14
+2011-05-22 02:00:00-05:00,Hombre,16,Arma de fuego,Girardot,#0509,5
+2011-05-22 01:00:00-05:00,Hombre,22,Arma de fuego,Castilla,#0511,5
+2011-05-22 19:10:00-05:00,Mujer,26,Arma cortopunzante,Patio Bonito,#1421,14
+2011-05-22 17:40:00-05:00,Mujer,56,No,Calle Nueva,#1011,10
+2011-05-22 19:10:00-05:00,Mujer,26,Arma cortopunzante,Patio Bonito,#1421,14
+2011-05-23 07:50:00-05:00,Hombre,17,Arma de fuego,San Diego,#1020,10
+2011-05-24 21:30:00-05:00,Hombre,58,No,Terminal de Transporte,#Inst_4,5
+2011-05-24 13:00:00-05:00,Hombre,36,Arma de fuego,Villa Nueva,#1018,10
+2011-05-24 16:35:00-05:00,Mujer,21,No,Guayaquil,#1007,10
+2011-05-24 00:05:00-05:00,Hombre,39,No,Calasanz,#1202,12
+2011-05-24 13:00:00-05:00,Hombre,36,Arma de fuego,Villa Nueva,#1018,10
+2011-05-24 13:00:00-05:00,Hombre,36,Arma de fuego,Villa Nueva,#1018,10
+2011-05-25 18:00:00-05:00,Mujer,41,No,Villa Carlota,#1403,14
+2011-05-25 12:45:00-05:00,Mujer,18,No,Guayaquil,#1007,10
+2011-05-26 12:35:00-05:00,Mujer,21,Arma de fuego,Barrio Colombia,#1401,14
+2011-05-27 17:00:00-05:00,Mujer,28,Arma de fuego,San Pedro,#0408,4
+2011-05-27 14:40:00-05:00,Mujer,26,Arma cortopunzante,Sin dato 90 Santa Elena,SIN DATO 90 SANTA ELENA,90
+2011-05-27 14:40:00-05:00,Mujer,26,Arma cortopunzante,Sin dato 90 Santa Elena,SIN DATO 90 SANTA ELENA,90
+2011-05-27 14:40:00-05:00,Mujer,26,Arma cortopunzante,Sin dato 90 Santa Elena,SIN DATO 90 SANTA ELENA,90
+2011-05-27 14:40:00-05:00,Mujer,26,Arma cortopunzante,Sin dato 90 Santa Elena,SIN DATO 90 SANTA ELENA,90
+2011-05-27 14:40:00-05:00,Mujer,26,Arma cortopunzante,Sin dato 90 Santa Elena,SIN DATO 90 SANTA ELENA,90
+2011-05-27 14:40:00-05:00,Mujer,26,Arma cortopunzante,Sin dato 90 Santa Elena,SIN DATO 90 SANTA ELENA,90
+2011-05-27 14:40:00-05:00,Mujer,26,Arma cortopunzante,Sin dato 90 Santa Elena,SIN DATO 90 SANTA ELENA,90
+2011-05-27 14:40:00-05:00,Mujer,26,Arma cortopunzante,Sin dato 90 Santa Elena,SIN DATO 90 SANTA ELENA,90
+2011-05-28 16:30:00-05:00,Mujer,25,No,El Velódromo,#1112,11
+2011-05-28 20:20:00-05:00,Mujer,38,No,Castropol,#1404,14
+2011-05-28 10:20:00-05:00,Hombre,59,No,Villa Carlota,#1403,14
+2011-05-28 01:05:00-05:00,Mujer,21,No,Las Granjas,#0302,3
+2011-05-28 20:20:00-05:00,Mujer,38,No,Castropol,#1404,14
+2011-05-28 01:05:00-05:00,Mujer,21,No,Las Granjas,#0302,3
+2011-05-28 01:05:00-05:00,Mujer,21,No,Las Granjas,#0302,3
+2011-05-28 01:05:00-05:00,Mujer,21,No,Las Granjas,#0302,3
+2011-05-29 15:00:00-05:00,Mujer,24,No,Manila,#1419,14
+2011-05-30 14:30:00-05:00,Mujer,24,No,Guayaquil,#1007,10
+2011-05-30 18:30:00-05:00,Mujer,24,No,La Salle,#0301,3
+2011-05-31 00:10:00-05:00,Hombre,32,No,Berlin,#0401,4
+2011-05-31 10:05:00-05:00,Hombre,48,No,Carlos E. Restrepo,#1101,11
+2011-05-31 14:30:00-05:00,Hombre,20,Arma cortopunzante,Alejandro Echavarría,#0905,9
+2011-05-31 11:30:00-05:00,Mujer,43,No,Villa Hermosa,#0801,8
+2011-05-31 00:30:00-05:00,Hombre,23,Arma de fuego,San Germán,#0703,7
+2011-05-31 00:30:00-05:00,Hombre,23,Arma de fuego,San Germán,#0703,7
+2011-05-31 00:30:00-05:00,Hombre,23,Arma de fuego,San Germán,#0703,7
+2011-06-01 12:10:00-05:00,Mujer,70,Arma de fuego,Santa Fé,#1504,15
+2011-06-01 16:30:00-05:00,Hombre,42,No,Las Lomas No.1,#1406,14
+2011-06-01 03:30:00-05:00,Hombre,22,No,Manila,#1419,14
+2011-06-01 14:30:00-05:00,Mujer,68,Arma de fuego,Girardot,#0509,5
+2011-06-01 15:45:00-05:00,Hombre,30,Sin dato,Las Lomas No.1,#1406,14
+2011-06-01 03:30:00-05:00,Hombre,22,No,Manila,#1419,14
+2011-06-01 14:30:00-05:00,Mujer,68,Arma de fuego,Girardot,#0509,5
+2011-06-02 14:10:00-05:00,Hombre,14,No,Miravalle,#1619,16
+2011-06-02 12:30:00-05:00,Mujer,19,No,Trinidad,#1503,15
+2011-06-03 18:20:00-05:00,Hombre,33,No,La Candelaria,#1019,10
+2011-06-03 13:45:00-05:00,Mujer,42,No,Patio Bonito,#1421,14
+2011-06-03 15:30:00-05:00,Hombre,34,No,La Candelaria,#1019,10
+2011-06-03 03:00:00-05:00,Hombre,29,No,Toscana,#0501,5
+2011-06-03 15:35:00-05:00,Hombre,31,Arma de fuego,Santa Fé,#1504,15
+2011-06-03 00:55:00-05:00,Hombre,17,No,Moravia,#0405,4
+2011-06-04 06:15:00-05:00,Hombre,23,No,Jesús Nazareno,#1003,10
+2011-06-04 20:00:00-05:00,Hombre,31,Arma cortopunzante,El Poblado,#1418,14
+2011-06-04 06:15:00-05:00,Hombre,23,No,Jesús Nazareno,#1003,10
+2011-06-04 20:00:00-05:00,Hombre,31,Arma cortopunzante,El Poblado,#1418,14
+2011-06-05 02:10:00-05:00,Hombre,27,Arma cortopunzante,Altos del Poblado,#1408,14
+2011-06-05 13:55:00-05:00,Hombre,17,Arma cortopunzante,Carlos E. Restrepo,#1101,11
+2011-06-05 11:45:00-05:00,Hombre,21,No,Prado,#1001,10
+2011-06-05 19:10:00-05:00,Hombre,19,No,San Pedro,#0408,4
+2011-06-05 08:10:00-05:00,Sin dato,-1,No,Universidad de Antioquia,#Inst_11,4
+2011-06-06 15:33:00-05:00,Mujer,44,Sin dato,La Mota,#1608,16
+2011-06-07 11:30:00-05:00,Mujer,17,No,B. Cerro el Volador,#0702,7
+2011-06-08 11:40:00-05:00,Hombre,34,Arma de fuego,San Diego,#1020,10
+2011-06-08 16:00:00-05:00,Hombre,52,No,Los Balsos No.1,#1411,14
+2011-06-08 22:40:00-05:00,Hombre,15,Arma cortopunzante,Parque Norte,#Inst_9,4
+2011-06-08 12:00:00-05:00,Mujer,21,Arma de fuego,La Gloria,#1612,16
+2011-06-08 15:00:00-05:00,Mujer,27,No,Calasanz,#1202,12
+2011-06-08 12:00:00-05:00,Mujer,21,Arma de fuego,La Gloria,#1612,16
+2011-06-09 01:00:00-05:00,Hombre,47,Arma cortopunzante,Cerro Nutibara Ins.,#Inst_18,16
+2011-06-09 14:00:00-05:00,Hombre,41,Arma cortopunzante,Fátima,#1601,16
+2011-06-09 14:10:00-05:00,Mujer,27,No,La Candelaria,#1019,10
+2011-06-09 01:00:00-05:00,Hombre,47,Arma cortopunzante,Cerro Nutibara Ins.,#Inst_18,16
+2011-06-10 19:08:00-05:00,Hombre,54,No,Villa Carlota,#1403,14
+2011-06-10 20:00:00-05:00,Mujer,17,No,La Candelaria,#1019,10
+2011-06-11 09:30:00-05:00,Hombre,35,Arma de fuego,Las Lomas No.1,#1406,14
+2011-06-11 11:00:00-05:00,Hombre,27,Arma de fuego,Patio Bonito,#1421,14
+2011-06-11 15:45:00-05:00,Hombre,41,Arma de fuego,El Poblado,#1418,14
+2011-06-11 00:05:00-05:00,Mujer,30,No,La Candelaria,#1019,10
+2011-06-11 01:00:00-05:00,Hombre,25,Arma de fuego,Las Acacias,#1109,11
+2011-06-11 12:40:00-05:00,Hombre,61,Arma cortopunzante,La Candelaria,#1019,10
+2011-06-11 07:40:00-05:00,Mujer,35,Arma de fuego,Estadio,#1113,11
+2011-06-11 05:10:00-05:00,Mujer,23,No,El Poblado,#1418,14
+2011-06-11 09:30:00-05:00,Hombre,35,Arma de fuego,Las Lomas No.1,#1406,14
+2011-06-11 15:45:00-05:00,Hombre,41,Arma de fuego,El Poblado,#1418,14
+2011-06-12 18:40:00-05:00,Hombre,20,No,La Candelaria,#1019,10
+2011-06-12 21:55:00-05:00,Mujer,21,Arma cortopunzante,Barrio Colón,#1013,10
+2011-06-12 14:10:00-05:00,Hombre,55,Arma de fuego,Picacho,#0608,6
+2011-06-12 12:00:00-05:00,Hombre,32,Arma de fuego,Prado,#1001,10
+2011-06-12 23:50:00-05:00,Hombre,32,Arma de fuego,Prado,#1001,10
+2011-06-13 10:10:00-05:00,Mujer,20,No,Plaza de Ferias,#Inst_1,5
+2011-06-13 18:10:00-05:00,Mujer,33,No,Barrio Colón,#1013,10
+2011-06-13 15:00:00-05:00,Mujer,17,No,Calle Nueva,#1011,10
+2011-06-13 08:00:00-05:00,Hombre,75,Sin dato,La Florida,#1417,14
+2011-06-13 09:00:00-05:00,Hombre,25,Arma de fuego,López de Mesa,#0710,7
+2011-06-14 02:30:00-05:00,Mujer,28,No,La Candelaria,#1019,10
+2011-06-14 03:30:00-05:00,Mujer,26,Arma cortopunzante,Villa Nueva,#1018,10
+2011-06-14 10:50:00-05:00,Hombre,26,No,La Candelaria,#1019,10
+2011-06-14 00:10:00-05:00,Mujer,35,No,El Castillo,#1414,14
+2011-06-14 14:00:00-05:00,Hombre,76,Sin dato,Buenos Aires,#0907,9
+2011-06-15 17:04:00-05:00,Hombre,52,Arma de fuego,Manila,#1419,14
+2011-06-15 17:50:00-05:00,Hombre,26,No,Cristo Rey,#1509,15
+2011-06-15 13:46:00-05:00,Hombre,29,Arma de fuego,Cristo Rey,#1509,15
+2011-06-15 13:46:00-05:00,Hombre,29,Arma de fuego,Cristo Rey,#1509,15
+2011-06-16 23:30:00-05:00,Hombre,37,Objeto contundente,Héctor Abad Gómez,#0507,5
+2011-06-16 16:20:00-05:00,Hombre,37,Arma de fuego,Cucaracho,#0718,7
+2011-06-16 16:20:00-05:00,Hombre,37,Arma de fuego,Cucaracho,#0718,7
+2011-06-16 16:20:00-05:00,Hombre,37,Arma de fuego,Cucaracho,#0718,7
+2011-06-17 16:20:00-05:00,Hombre,30,No,Villa Carlota,#1403,14
+2011-06-17 13:40:00-05:00,Hombre,22,No,Tenche,#1502,15
+2011-06-17 12:40:00-05:00,Hombre,32,Arma de fuego,Fátima,#1601,16
+2011-06-18 14:20:00-05:00,Hombre,26,No,San Benito,#1006,10
+2011-06-18 06:25:00-05:00,Hombre,39,No,Tenche,#1502,15
+2011-06-18 12:10:00-05:00,Mujer,65,Sin dato,El Poblado,#1418,14
+2011-06-18 19:00:00-05:00,Hombre,54,Sin dato,Campo Amor,#1507,15
+2011-06-19 22:05:00-05:00,Hombre,17,Arma cortopunzante,Corazón de Jesús,#1008,10
+2011-06-20 12:20:00-05:00,Hombre,43,Arma cortopunzante,Prado,#1001,10
+2011-06-20 15:30:00-05:00,Mujer,25,No,La Candelaria,#1019,10
+2011-06-21 13:45:00-05:00,Hombre,32,No,Guayaquil,#1007,10
+2011-06-21 00:25:00-05:00,Hombre,16,No,Caribe,#0517,5
+2011-06-21 22:00:00-05:00,Hombre,18,Arma cortopunzante,El Rincón,#1610,16
+2011-06-21 18:00:00-05:00,Hombre,27,Sin dato,Guayaquil,#1007,10
+2011-06-21 14:30:00-05:00,Hombre,54,No,El Diamante,#0711,7
+2011-06-21 14:30:00-05:00,Hombre,54,No,El Diamante,#0711,7
+2011-06-21 14:30:00-05:00,Hombre,54,No,El Diamante,#0711,7
+2011-06-22 12:30:00-05:00,Hombre,42,Arma de fuego,Laureles,#1108,11
+2011-06-22 19:00:00-05:00,Hombre,55,No,El Poblado,#1418,14
+2011-06-22 11:55:00-05:00,Hombre,22,No,La Candelaria,#1019,10
+2011-06-22 19:00:00-05:00,Mujer,50,Sin dato,Los Balsos No.2,#1415,14
+2011-06-22 16:30:00-05:00,Hombre,54,Arma de fuego,Castropol,#1404,14
+2011-06-22 06:30:00-05:00,Hombre,28,No,La Aguacatala,#1422,14
+2011-06-22 15:20:00-05:00,Hombre,57,Arma cortopunzante,La Candelaria,#1019,10
+2011-06-22 14:00:00-05:00,Hombre,25,Arma de fuego,Belén,#1603,16
+2011-06-22 15:25:00-05:00,Hombre,21,Arma de fuego,La Candelaria,#1019,10
+2011-06-22 06:30:00-05:00,Hombre,28,No,La Aguacatala,#1422,14
+2011-06-22 15:20:00-05:00,Hombre,57,Arma cortopunzante,La Candelaria,#1019,10
+2011-06-22 15:20:00-05:00,Hombre,57,Arma cortopunzante,La Candelaria,#1019,10
+2011-06-23 09:30:00-05:00,Mujer,40,Arma cortopunzante,La Candelaria,#1019,10
+2011-06-23 12:05:00-05:00,Hombre,52,No,El Poblado,#1418,14
+2011-06-24 10:15:00-05:00,Hombre,31,No,San Benito,#1006,10
+2011-06-24 18:55:00-05:00,Mujer,24,No,Barrio Colón,#1013,10
+2011-06-24 09:30:00-05:00,Hombre,50,Sin dato,Alejandría,#1416,14
+2011-06-24 13:10:00-05:00,Mujer,29,Sin dato,Lalinde,#1405,14
+2011-06-24 18:30:00-05:00,Hombre,28,Sin dato,Guayabal,#1510,15
+2011-06-24 21:50:00-05:00,Mujer,22,No,Sevilla,#0407,4
+2011-06-24 15:30:00-05:00,Hombre,41,Arma cortopunzante,Piedras Blancas Matasano,#9003,90
+2011-06-24 21:00:00-05:00,Mujer,30,No,Barrio Cristóbal,#1210,12
+2011-06-24 10:15:00-05:00,Hombre,31,No,San Benito,#1006,10
+2011-06-24 09:30:00-05:00,Hombre,50,Sin dato,Alejandría,#1416,14
+2011-06-24 09:30:00-05:00,Hombre,50,Sin dato,Alejandría,#1416,14
+2011-06-24 09:30:00-05:00,Hombre,50,Sin dato,Alejandría,#1416,14
+2011-06-24 15:30:00-05:00,Hombre,41,Arma cortopunzante,Piedras Blancas Matasano,#9003,90
+2011-06-24 15:30:00-05:00,Hombre,41,Arma cortopunzante,Piedras Blancas Matasano,#9003,90
+2011-06-25 12:30:00-05:00,Mujer,35,No,Los Pinos,#1203,12
+2011-06-25 09:30:00-05:00,Mujer,20,Arma cortopunzante,El Poblado,#1418,14
+2011-06-25 14:30:00-05:00,Hombre,44,Arma de fuego,Campo Amor,#1507,15
+2011-06-25 11:25:00-05:00,Hombre,35,Arma de fuego,Guayabal,#1510,15
+2011-06-25 17:45:00-05:00,Mujer,18,No,Sevilla,#0407,4
+2011-06-26 16:25:00-05:00,Hombre,26,No,La Candelaria,#1019,10
+2011-06-27 15:20:00-05:00,Hombre,19,No,Jesús Nazareno,#1003,10
+2011-06-27 16:00:00-05:00,Mujer,34,No,Naranjal,#1103,11
+2011-06-28 11:30:00-05:00,Mujer,27,Sin dato,Campo Amor,#1507,15
+2011-06-28 10:00:00-05:00,Hombre,32,Arma de fuego,Naranjal,#1103,11
+2011-06-28 10:00:00-05:00,Mujer,72,No,San Joaquín,#1104,11
+2011-06-28 08:30:00-05:00,Hombre,34,No,Trinidad,#1503,15
+2011-06-28 22:00:00-05:00,Mujer,57,Arma cortopunzante,La Gloria,#1612,16
+2011-06-28 08:00:00-05:00,Mujer,39,Arma de fuego,El Poblado,#1418,14
+2011-06-29 08:00:00-05:00,Hombre,28,No,Villa Carlota,#1403,14
+2011-06-29 13:50:00-05:00,Mujer,28,No,San Benito,#1006,10
+2011-06-29 18:03:00-05:00,Hombre,30,No,Villa Carlota,#1403,14
+2011-06-30 03:00:00-05:00,Hombre,58,Arma cortopunzante,Astorga,#1420,14
+2011-06-30 10:00:00-05:00,Hombre,44,Arma cortopunzante,La Candelaria,#1019,10
+2011-06-30 23:30:00-05:00,Hombre,38,Arma de fuego,Las Lomas No.1,#1406,14
+2011-06-30 15:40:00-05:00,Hombre,34,No,Alfonso López,#0514,5
+2011-06-30 03:00:00-05:00,Hombre,58,Arma cortopunzante,Astorga,#1420,14
+2011-06-30 10:00:00-05:00,Hombre,44,Arma cortopunzante,La Candelaria,#1019,10
+2011-06-30 10:00:00-05:00,Hombre,44,Arma cortopunzante,La Candelaria,#1019,10
+2011-06-30 23:30:00-05:00,Hombre,38,Arma de fuego,Las Lomas No.1,#1406,14
+2011-06-30 23:30:00-05:00,Hombre,38,Arma de fuego,Las Lomas No.1,#1406,14
+2011-07-01 06:40:00-05:00,Hombre,32,Arma de fuego,El Danubio,#1207,12
+2011-07-01 13:30:00-05:00,Mujer,35,No,La Candelaria,#1019,10
+2011-07-01 19:20:00-05:00,Mujer,49,Arma de fuego,San Joaquín,#1104,11
+2011-07-01 18:25:00-05:00,Mujer,34,No,La Candelaria,#1019,10
+2011-07-01 06:50:00-05:00,Mujer,54,No,Los Conquistadores,#1105,11
+2011-07-01 07:00:00-05:00,Hombre,49,Sin dato,Sin dato,SIN DATO,SIN DATO
+2011-07-01 19:20:00-05:00,Mujer,49,Arma de fuego,San Joaquín,#1104,11
+2011-07-01 06:50:00-05:00,Mujer,54,No,Los Conquistadores,#1105,11
+2011-07-02 11:10:00-05:00,Hombre,23,Arma de fuego,San Benito,#1006,10
+2011-07-02 12:45:00-05:00,Hombre,33,Arma de fuego,San Pedro,#0408,4
+2011-07-02 13:10:00-05:00,Hombre,33,Arma de fuego,La Aguacatala,#1422,14
+2011-07-02 12:45:00-05:00,Hombre,33,Arma de fuego,San Pedro,#0408,4
+2011-07-03 13:05:00-05:00,Hombre,55,Arma de fuego,U.D. Atanasio Girardot,#Inst_14,11
+2011-07-03 00:20:00-05:00,Mujer,18,No,Barrio Colombia,#1401,14
+2011-07-03 14:20:00-05:00,Mujer,42,Arma cortopunzante,Tricentenario,#0510,5
+2011-07-03 00:20:00-05:00,Mujer,18,No,Barrio Colombia,#1401,14
+2011-07-05 18:00:00-05:00,Mujer,38,No,Boston,#1016,10
+2011-07-05 16:40:00-05:00,Hombre,49,Arma de fuego,Belén,#1603,16
+2011-07-05 01:00:00-05:00,Mujer,18,No,La Candelaria,#1019,10
+2011-07-05 09:00:00-05:00,Hombre,28,No,La Candelaria,#1019,10
+2011-07-06 22:30:00-05:00,Mujer,32,Arma de fuego,La Castellana,#1110,11
+2011-07-06 11:30:00-05:00,Hombre,43,Arma de fuego,Boyacá,#0505,5
+2011-07-07 13:05:00-05:00,Mujer,41,Arma cortopunzante,Los Conquistadores,#1105,11
+2011-07-07 08:00:00-05:00,Mujer,21,No,Carlos E. Restrepo,#1101,11
+2011-07-08 20:05:00-05:00,Mujer,33,No,Villa Carlota,#1403,14
+2011-07-08 04:40:00-05:00,Mujer,57,Arma cortopunzante,Guayaquil,#1007,10
+2011-07-08 11:00:00-05:00,Hombre,44,Sin dato,Manila,#1419,14
+2011-07-08 11:00:00-05:00,Hombre,44,Sin dato,Manila,#1419,14
+2011-07-08 11:00:00-05:00,Hombre,44,Sin dato,Manila,#1419,14
+2011-07-09 01:00:00-05:00,Mujer,26,Arma de fuego,Laureles,#1108,11
+2011-07-09 01:00:00-05:00,Mujer,26,Arma de fuego,Laureles,#1108,11
+2011-07-09 01:00:00-05:00,Mujer,26,Arma de fuego,Laureles,#1108,11
+2011-07-10 04:00:00-05:00,Hombre,34,No,El Poblado,#1418,14
+2011-07-10 04:00:00-05:00,Hombre,34,No,El Poblado,#1418,14
+2011-07-10 04:00:00-05:00,Hombre,34,No,El Poblado,#1418,14
+2011-07-10 04:00:00-05:00,Hombre,34,No,El Poblado,#1418,14
+2011-07-10 04:00:00-05:00,Hombre,34,No,El Poblado,#1418,14
+2011-07-10 04:00:00-05:00,Hombre,34,No,El Poblado,#1418,14
+2011-07-11 15:20:00-05:00,Mujer,17,Arma cortopunzante,Las Acacias,#1109,11
+2011-07-11 21:50:00-05:00,Mujer,37,Arma cortopunzante,U.D. Atanasio Girardot,#Inst_14,11
+2011-07-11 16:10:00-05:00,Mujer,80,No,Laureles,#1108,11
+2011-07-11 08:00:00-05:00,Mujer,30,No,Progreso,#0519,5
+2011-07-12 11:10:00-05:00,Hombre,43,Arma de fuego,Castropol,#1404,14
+2011-07-12 19:20:00-05:00,Mujer,60,No,La Candelaria,#1019,10
+2011-07-13 16:55:00-05:00,Hombre,72,No,San Pedro,#0408,4
+2011-07-13 16:25:00-05:00,Mujer,18,No,Prado,#1001,10
+2011-07-14 20:40:00-05:00,Hombre,49,No,Los Ángeles,#1017,10
+2011-07-14 00:10:00-05:00,Mujer,22,No,La Candelaria,#1019,10
+2011-07-14 14:10:00-05:00,Mujer,42,No,La Candelaria,#1019,10
+2011-07-14 17:55:00-05:00,Mujer,22,No,Barrio Colón,#1013,10
+2011-07-14 03:40:00-05:00,Hombre,27,No,La Candelaria,#1019,10
+2011-07-14 08:00:00-05:00,Mujer,62,No,Villa Carlota,#1403,14
+2011-07-14 10:00:00-05:00,Hombre,41,Arma de fuego,Guayabal,#1510,15
+2011-07-14 20:40:00-05:00,Hombre,49,No,Los Ángeles,#1017,10
+2011-07-14 10:00:00-05:00,Hombre,41,Arma de fuego,Guayabal,#1510,15
+2011-07-14 10:00:00-05:00,Hombre,41,Arma de fuego,Guayabal,#1510,15
+2011-07-15 14:25:00-05:00,Hombre,21,No,Villa Nueva,#1018,10
+2011-07-15 15:40:00-05:00,Hombre,63,Arma de fuego,La Candelaria,#1019,10
+2011-07-16 03:00:00-05:00,Hombre,27,No,Los Ángeles,#1017,10
+2011-07-16 02:40:00-05:00,Hombre,22,No,Manila,#1419,14
+2011-07-16 21:10:00-05:00,Mujer,20,No,Sevilla,#0407,4
+2011-07-16 13:50:00-05:00,Hombre,34,No,San Bernardo,#1605,16
+2011-07-16 15:30:00-05:00,Hombre,30,Arma de fuego,Toscana,#0501,5
+2011-07-16 21:10:00-05:00,Mujer,20,No,Sevilla,#0407,4
+2011-07-17 12:40:00-05:00,Mujer,33,No,San Miguel,#0803,8
+2011-07-17 12:40:00-05:00,Mujer,33,No,San Miguel,#0803,8
+2011-07-18 18:45:00-05:00,Mujer,27,No,La Candelaria,#1019,10
+2011-07-18 00:05:00-05:00,Hombre,20,Arma cortopunzante,San Benito,#1006,10
+2011-07-18 15:15:00-05:00,Hombre,44,Arma de fuego,La Castellana,#1110,11
+2011-07-19 11:50:00-05:00,Mujer,34,Arma de fuego,Universidad de Antioquia,#Inst_11,4
+2011-07-19 21:40:00-05:00,Hombre,28,No,La Castellana,#1110,11
+2011-07-19 21:40:00-05:00,Hombre,28,Arma de fuego,La Castellana,#1110,11
+2011-07-20 00:10:00-05:00,Hombre,59,Arma cortopunzante,Prado,#1001,10
+2011-07-20 15:30:00-05:00,Hombre,33,No,San Martín de Porres,#0606,6
+2011-07-20 16:50:00-05:00,Hombre,34,Arma de fuego,Cerro Nutibara,#1621,16
+2011-07-20 00:10:00-05:00,Hombre,59,Arma cortopunzante,Prado,#1001,10
+2011-07-20 15:30:00-05:00,Hombre,33,No,San Martín de Porres,#0606,6
+2011-07-20 15:30:00-05:00,Hombre,33,No,San Martín de Porres,#0606,6
+2011-07-20 16:50:00-05:00,Hombre,34,Arma de fuego,Cerro Nutibara,#1621,16
+2011-07-20 16:50:00-05:00,Hombre,34,Arma de fuego,Cerro Nutibara,#1621,16
+2011-07-21 13:50:00-05:00,Hombre,19,No,Barrio Colón,#1013,10
+2011-07-21 03:40:00-05:00,Hombre,49,Arma cortopunzante,Campo Valdés No.1,#0410,4
+2011-07-21 16:20:00-05:00,Hombre,25,No,Manila,#1419,14
+2011-07-21 20:25:00-05:00,Hombre,18,No,Los Balsos No.1,#1411,14
+2011-07-21 19:45:00-05:00,Hombre,39,No,Las Lomas No.1,#1406,14
+2011-07-21 17:00:00-05:00,Mujer,42,No,Manila,#1419,14
+2011-07-21 10:10:00-05:00,Mujer,42,Sin dato,El Velódromo,#1112,11
+2011-07-21 20:30:00-05:00,Hombre,36,Arma de fuego,U.D. Atanasio Girardot,#Inst_14,11
+2011-07-21 12:10:00-05:00,Hombre,52,No,La América,#1204,12
+2011-07-22 12:00:00-05:00,Mujer,19,No,Caribe,#0517,5
+2011-07-22 12:00:00-05:00,Mujer,19,No,Caribe,#0517,5
+2011-07-23 13:45:00-05:00,Hombre,13,No,La Candelaria,#1019,10
+2011-07-23 07:15:00-05:00,Hombre,20,Arma cortopunzante,La Candelaria,#1019,10
+2011-07-23 12:30:00-05:00,Hombre,37,No,Los Colores,#1114,11
+2011-07-23 16:00:00-05:00,Hombre,33,Arma de fuego,Caribe,#0517,5
+2011-07-23 07:15:00-05:00,Hombre,20,Arma cortopunzante,La Candelaria,#1019,10
+2011-07-23 16:00:00-05:00,Hombre,33,Arma de fuego,Caribe,#0517,5
+2011-07-24 03:20:00-05:00,Hombre,27,No,El Poblado,#1418,14
+2011-07-24 21:00:00-05:00,Hombre,30,Arma de fuego,Manrique Central No.1,#0409,4
+2011-07-24 20:50:00-05:00,Hombre,26,No,Sevilla,#0407,4
+2011-07-24 03:20:00-05:00,Hombre,27,No,El Poblado,#1418,14
+2011-07-24 20:50:00-05:00,Hombre,26,No,Sevilla,#0407,4
+2011-07-25 14:25:00-05:00,Hombre,32,No,La Candelaria,#1019,10
+2011-07-25 21:00:00-05:00,Mujer,25,No,Lorena,#1111,11
+2011-07-26 17:00:00-05:00,Mujer,34,No,Terminal de Transporte,#Inst_4,5
+2011-07-26 19:15:00-05:00,Hombre,22,Arma cortopunzante,San Pedro,#0408,4
+2011-07-26 19:15:00-05:00,Hombre,22,Arma cortopunzante,San Pedro,#0408,4
+2011-07-27 15:15:00-05:00,Hombre,52,No,La Candelaria,#1019,10
+2011-07-27 03:30:00-05:00,Hombre,25,Arma de fuego,Los Conquistadores,#1105,11
+2011-07-27 20:30:00-05:00,Hombre,43,Arma cortopunzante,Los Balsos No.1,#1411,14
+2011-07-27 03:30:00-05:00,Hombre,25,Arma de fuego,Los Conquistadores,#1105,11
+2011-07-28 14:50:00-05:00,Mujer,25,Arma cortopunzante,Santa Inés,#0304,3
+2011-07-28 14:20:00-05:00,Mujer,15,Arma de fuego,La Pilarica,#0706,7
+2011-07-29 13:00:00-05:00,Hombre,38,Arma de fuego,Campo Amor,#1507,15
+2011-07-29 11:30:00-05:00,Mujer,35,Objeto contundente,Prado,#1001,10
+2011-07-29 05:30:00-05:00,Hombre,36,No,Patio Bonito,#1421,14
+2011-07-29 15:40:00-05:00,Mujer,45,No,La Candelaria,#1019,10
+2011-07-29 11:00:00-05:00,Hombre,37,No,La Candelaria,#1019,10
+2011-07-29 13:20:00-05:00,Mujer,22,No,Estadio,#1113,11
+2011-07-29 08:45:00-05:00,Sin dato,-1,No,Patio Bonito,#1421,14
+2011-07-30 23:10:00-05:00,Hombre,26,Arma de fuego,Carlos E. Restrepo,#1101,11
+2011-07-30 22:30:00-05:00,Hombre,25,No,Prado,#1001,10
+2011-07-30 17:30:00-05:00,Mujer,17,No,Guayabal,#1510,15
+2011-07-30 21:25:00-05:00,Hombre,27,Arma cortopunzante,Patio Bonito,#1421,14
+2011-07-30 17:40:00-05:00,Mujer,27,No,La América,#1204,12
+2011-07-30 00:10:00-05:00,Hombre,16,No,Sin dato,SIN DATO,SIN DATO
+2011-07-30 22:30:00-05:00,Mujer,21,No,Prado,#1001,10
+2011-07-30 22:30:00-05:00,Mujer,21,No,Prado,#1001,10
+2011-07-30 17:30:00-05:00,Mujer,17,No,Guayabal,#1510,15
+2011-07-30 17:30:00-05:00,Mujer,17,No,Guayabal,#1510,15
+2011-07-30 17:30:00-05:00,Mujer,17,No,Guayabal,#1510,15
+2011-07-31 13:35:00-05:00,Hombre,37,No,La Candelaria,#1019,10
+2011-08-01 17:30:00-05:00,Hombre,19,No,Villa Carlota,#1403,14
+2011-08-01 00:40:00-05:00,Hombre,22,Arma cortopunzante,La Candelaria,#1019,10
+2011-08-01 17:50:00-05:00,Hombre,46,Arma cortopunzante,Área Urbana Cgto. San Cristóbal,#AUC1,60
+2011-08-01 12:40:00-05:00,Hombre,74,No,Patio Bonito,#1421,14
+2011-08-01 00:40:00-05:00,Hombre,22,Arma cortopunzante,La Candelaria,#1019,10
+2011-08-02 19:00:00-05:00,Hombre,23,Arma de fuego,Las Acacias,#1109,11
+2011-08-02 16:30:00-05:00,Hombre,22,Arma de fuego,Las Acacias,#1109,11
+2011-08-02 09:00:00-05:00,Hombre,25,Arma de fuego,Robledo,#0717,7
+2011-08-02 19:00:00-05:00,Hombre,23,Arma de fuego,Las Acacias,#1109,11
+2011-08-02 16:30:00-05:00,Hombre,22,Arma de fuego,Las Acacias,#1109,11
+2011-08-02 16:30:00-05:00,Hombre,22,Arma de fuego,Las Acacias,#1109,11
+2011-08-03 16:00:00-05:00,Hombre,17,No,Calasanz,#1202,12
+2011-08-03 15:15:00-05:00,Mujer,28,Objeto contundente,Altamira,#0708,7
+2011-08-04 11:30:00-05:00,Hombre,19,Arma cortopunzante,Carlos E. Restrepo,#1101,11
+2011-08-04 23:55:00-05:00,Mujer,29,Arma cortopunzante,Parque Juan Pablo II,#Inst_19,15
+2011-08-04 21:55:00-05:00,Hombre,42,Arma de fuego,Naranjal,#1103,11
+2011-08-04 19:45:00-05:00,Mujer,51,No,San Diego,#1020,10
+2011-08-04 23:55:00-05:00,Mujer,29,Arma cortopunzante,Parque Juan Pablo II,#Inst_19,15
+2011-08-04 23:55:00-05:00,Mujer,29,Arma cortopunzante,Parque Juan Pablo II,#Inst_19,15
+2011-08-04 23:55:00-05:00,Mujer,29,Arma cortopunzante,Parque Juan Pablo II,#Inst_19,15
+2011-08-04 23:55:00-05:00,Mujer,29,Arma cortopunzante,Parque Juan Pablo II,#Inst_19,15
+2011-08-04 21:55:00-05:00,Hombre,42,Arma de fuego,Naranjal,#1103,11
+2011-08-04 19:45:00-05:00,Mujer,51,No,San Diego,#1020,10
+2011-08-05 16:00:00-05:00,Mujer,27,Arma cortopunzante,Belén,#1603,16
+2011-08-05 13:32:00-05:00,Mujer,20,No,Suramericana,#1102,11
+2011-08-05 11:00:00-05:00,Hombre,30,Arma de fuego,Castilla,#0511,5
+2011-08-05 11:00:00-05:00,Hombre,30,Arma de fuego,Castilla,#0511,5
+2011-08-05 11:00:00-05:00,Hombre,30,Arma de fuego,Castilla,#0511,5
+2011-08-05 11:00:00-05:00,Hombre,30,Arma de fuego,Castilla,#0511,5
+2011-08-05 11:00:00-05:00,Hombre,30,Arma de fuego,Castilla,#0511,5
+2011-08-05 11:00:00-05:00,Hombre,30,Arma de fuego,Castilla,#0511,5
+2011-08-06 13:00:00-05:00,Hombre,35,No,La Candelaria,#1019,10
+2011-08-06 13:10:00-05:00,Hombre,24,Arma de fuego,Las Acacias,#1109,11
+2011-08-06 19:00:00-05:00,Hombre,21,Arma cortopunzante,Castilla,#0511,5
+2011-08-07 10:30:00-05:00,Hombre,60,No,Los Conquistadores,#1105,11
+2011-08-07 17:10:00-05:00,Mujer,21,No,Robledo,#0717,7
+2011-08-07 01:00:00-05:00,Mujer,20,Arma cortopunzante,Cerro Nutibara Ins.,#Inst_18,16
+2011-08-07 16:15:00-05:00,Mujer,21,No,San Javier No.1,#1309,13
+2011-08-07 13:20:00-05:00,Mujer,22,No,Belalcázar,#0508,5
+2011-08-07 13:30:00-05:00,Hombre,32,Arma de fuego,Sevilla,#0407,4
+2011-08-07 13:20:00-05:00,Mujer,22,No,Belalcázar,#0508,5
+2011-08-08 14:30:00-05:00,Hombre,24,No,La Candelaria,#1019,10
+2011-08-08 00:15:00-05:00,Mujer,25,No,Villa Nueva,#1018,10
+2011-08-09 15:00:00-05:00,Hombre,39,Arma de fuego,San Pedro,#0408,4
+2011-08-09 07:10:00-05:00,Hombre,20,Arma de fuego,Boston,#1016,10
+2011-08-09 00:15:00-05:00,Hombre,43,No,Suramericana,#1102,11
+2011-08-09 13:15:00-05:00,Mujer,46,No,Suramericana,#1102,11
+2011-08-09 18:30:00-05:00,Mujer,32,Arma cortopunzante,Barrio Colombia,#1401,14
+2011-08-09 00:15:00-05:00,Hombre,43,No,Suramericana,#1102,11
+2011-08-10 20:20:00-05:00,Mujer,32,No,Manila,#1419,14
+2011-08-10 12:00:00-05:00,Hombre,44,Arma de fuego,Castropol,#1404,14
+2011-08-10 22:25:00-05:00,Mujer,58,No,Manila,#1419,14
+2011-08-10 20:25:00-05:00,Hombre,35,Arma de fuego,Florencia,#0503,5
+2011-08-10 00:00:00-05:00,Mujer,22,Arma cortopunzante,Los Conquistadores,#1105,11
+2011-08-10 01:05:00-05:00,Hombre,26,Arma de fuego,San Pedro,#0408,4
+2011-08-10 16:30:00-05:00,Mujer,27,No,La Alpujarra,#Inst_16,10
+2011-08-10 22:00:00-05:00,Mujer,22,No,Lorena,#1111,11
+2011-08-10 20:20:00-05:00,Mujer,32,No,Manila,#1419,14
+2011-08-10 22:00:00-05:00,Mujer,22,No,Lorena,#1111,11
+2011-08-11 00:00:00-05:00,Hombre,27,Arma de fuego,Campo Amor,#1507,15
+2011-08-11 09:30:00-05:00,Mujer,47,Arma de fuego,Barrio Caycedo,#0906,9
+2011-08-11 10:35:00-05:00,Mujer,63,No,La Candelaria,#1019,10
+2011-08-11 16:55:00-05:00,Hombre,20,Arma de fuego,Prado,#1001,10
+2011-08-11 17:00:00-05:00,Hombre,26,Arma de fuego,Prado,#1001,10
+2011-08-11 17:00:00-05:00,Hombre,27,No,Calle Nueva,#1011,10
+2011-08-11 22:00:00-05:00,Mujer,23,Arma de fuego,Patio Bonito,#1421,14
+2011-08-11 16:30:00-05:00,Hombre,22,Arma de fuego,Robledo,#0717,7
+2011-08-11 18:40:00-05:00,Mujer,29,Arma de fuego,Caribe,#0517,5
+2011-08-11 16:30:00-05:00,Hombre,23,Arma de fuego,Robledo,#0717,7
+2011-08-11 22:00:00-05:00,Mujer,23,Arma de fuego,Patio Bonito,#1421,14
+2011-08-11 22:00:00-05:00,Mujer,23,Arma de fuego,Patio Bonito,#1421,14
+2011-08-12 01:30:00-05:00,Hombre,22,Arma cortopunzante,Barrio Colón,#1013,10
+2011-08-12 02:30:00-05:00,Mujer,24,Arma cortopunzante,Barrio Colón,#1013,10
+2011-08-12 10:50:00-05:00,Mujer,23,No,La Candelaria,#1019,10
+2011-08-12 20:00:00-05:00,Hombre,45,No,La Aguacatala,#1422,14
+2011-08-12 18:20:00-05:00,Hombre,28,Arma de fuego,Santa Fé,#1504,15
+2011-08-12 13:30:00-05:00,Mujer,51,Arma de fuego,Guayabal,#1510,15
+2011-08-12 18:20:00-05:00,Hombre,28,Arma de fuego,Santa Fé,#1504,15
+2011-08-12 18:20:00-05:00,Hombre,28,Arma de fuego,Santa Fé,#1504,15
+2011-08-13 11:45:00-05:00,Mujer,52,No,La Candelaria,#1019,10
+2011-08-13 00:00:00-05:00,Hombre,36,Objeto contundente,Manrique Central No.2,#0307,3
+2011-08-14 13:45:00-05:00,Mujer,32,No,Los Conquistadores,#1105,11
+2011-08-14 13:45:00-05:00,Mujer,32,No,Los Conquistadores,#1105,11
+2011-08-14 13:45:00-05:00,Mujer,32,No,Los Conquistadores,#1105,11
+2011-08-15 17:00:00-05:00,Hombre,38,Arma de fuego,Los Balsos No.1,#1411,14
+2011-08-15 18:45:00-05:00,Hombre,32,Arma de fuego,Manila,#1419,14
+2011-08-15 17:00:00-05:00,Hombre,38,Arma de fuego,Los Balsos No.1,#1411,14
+2011-08-15 17:00:00-05:00,Hombre,38,Arma de fuego,Los Balsos No.1,#1411,14
+2011-08-16 20:10:00-05:00,Hombre,34,No,Las Esmeraldas,#0411,4
+2011-08-16 16:20:00-05:00,Hombre,46,Arma de fuego,Carlos E. Restrepo,#1101,11
+2011-08-17 12:10:00-05:00,Hombre,26,No,La Candelaria,#1019,10
+2011-08-17 20:55:00-05:00,Hombre,30,Arma de fuego,La América,#1204,12
+2011-08-17 22:05:00-05:00,Mujer,18,Objeto contundente,San Javier No.2,#1308,13
+2011-08-17 20:55:00-05:00,Hombre,30,Arma de fuego,La América,#1204,12
+2011-08-17 22:05:00-05:00,Mujer,18,Objeto contundente,San Javier No.2,#1308,13
+2011-08-17 22:05:00-05:00,Mujer,18,Objeto contundente,San Javier No.2,#1308,13
+2011-08-18 09:57:00-05:00,Hombre,18,Arma cortopunzante,Universidad Nacional,#Inst_8,7
+2011-08-18 14:45:00-05:00,Mujer,22,No,La Candelaria,#1019,10
+2011-08-18 09:45:00-05:00,Hombre,29,Arma de fuego,Villa Nueva,#1018,10
+2011-08-18 18:58:00-05:00,Mujer,15,No,Córdoba,#0709,7
+2011-08-18 09:45:00-05:00,Hombre,29,Arma de fuego,Villa Nueva,#1018,10
+2011-08-19 00:05:00-05:00,Hombre,31,Arma de fuego,Caribe,#0517,5
+2011-08-19 16:10:00-05:00,Hombre,42,No,Facultad de Minas U. Nal,#Inst_5,7
+2011-08-19 09:55:00-05:00,Hombre,50,No,San Pedro,#0408,4
+2011-08-20 18:30:00-05:00,Hombre,46,Arma de fuego,Estadio,#1113,11
+2011-08-20 03:45:00-05:00,Mujer,30,Arma cortopunzante,Barrio Colón,#1013,10
+2011-08-20 16:50:00-05:00,Hombre,18,Arma cortopunzante,El Velódromo,#1112,11
+2011-08-20 17:30:00-05:00,Hombre,38,Arma de fuego,San Bernardo,#1605,16
+2011-08-20 17:30:00-05:00,Hombre,38,Arma de fuego,San Bernardo,#1605,16
+2011-08-20 17:30:00-05:00,Hombre,38,Arma de fuego,San Bernardo,#1605,16
+2011-08-21 08:15:00-05:00,Hombre,34,Objeto contundente,Francisco Antonio Zea,#0513,5
+2011-08-21 02:10:00-05:00,Hombre,29,Arma cortopunzante,El Poblado,#1418,14
+2011-08-21 02:10:00-05:00,Hombre,29,Arma cortopunzante,El Poblado,#1418,14
+2011-08-22 19:19:00-05:00,Mujer,21,Arma cortopunzante,La Candelaria,#1019,10
+2011-08-22 13:45:00-05:00,Hombre,57,Arma de fuego,Palenque,#0716,7
+2011-08-22 13:45:00-05:00,Hombre,57,Arma de fuego,Palenque,#0716,7
+2011-08-23 02:00:00-05:00,Hombre,51,Escopolamina,La Candelaria,#1019,10
+2011-08-23 00:40:00-05:00,Hombre,20,Arma cortopunzante,Estación Villa,#1005,10
+2011-08-23 22:40:00-05:00,Hombre,60,Arma de fuego,La Castellana,#1110,11
+2011-08-23 02:00:00-05:00,Hombre,51,Escopolamina,La Candelaria,#1019,10
+2011-08-23 02:00:00-05:00,Hombre,51,Escopolamina,La Candelaria,#1019,10
+2011-08-23 02:00:00-05:00,Hombre,51,Escopolamina,La Candelaria,#1019,10
+2011-08-23 02:00:00-05:00,Hombre,51,Escopolamina,La Candelaria,#1019,10
+2011-08-23 00:40:00-05:00,Hombre,20,Arma cortopunzante,Estación Villa,#1005,10
+2011-08-24 17:30:00-05:00,Hombre,19,Arma cortopunzante,Naranjal,#1103,11
+2011-08-24 04:20:00-05:00,Hombre,18,Objeto contundente,San Diego,#1020,10
+2011-08-24 08:00:00-05:00,Hombre,19,Arma cortopunzante,Los Ángeles,#1017,10
+2011-08-24 11:40:00-05:00,Hombre,41,Objeto contundente,La Esperanza No.2,#0110,1
+2011-08-24 18:30:00-05:00,Hombre,18,No,Bomboná No.1,#1015,10
+2011-08-24 15:30:00-05:00,Hombre,38,Arma de fuego,Los Ángeles,#1017,10
+2011-08-24 19:20:00-05:00,Mujer,29,Arma de fuego,El Poblado,#1418,14
+2011-08-24 15:30:00-05:00,Hombre,38,Arma de fuego,Los Ángeles,#1017,10
+2011-08-24 15:30:00-05:00,Hombre,38,Arma de fuego,Los Ángeles,#1017,10
+2011-08-25 18:35:00-05:00,Mujer,15,No,La Candelaria,#1019,10
+2011-08-25 16:30:00-05:00,Hombre,44,Arma de fuego,Caribe,#0517,5
+2011-08-25 17:50:00-05:00,Mujer,37,Arma de fuego,La Floresta,#1205,12
+2011-08-25 16:30:00-05:00,Hombre,44,Arma de fuego,Caribe,#0517,5
+2011-08-26 18:50:00-05:00,Hombre,44,Arma de fuego,Progreso,#0519,5
+2011-08-26 01:30:00-05:00,Hombre,21,Arma cortopunzante,Boston,#1016,10
+2011-08-26 15:30:00-05:00,Hombre,40,Arma de fuego,Villa Nueva,#1018,10
+2011-08-26 16:50:00-05:00,Mujer,25,Arma cortopunzante,San Diego,#1020,10
+2011-08-26 18:35:00-05:00,Mujer,42,No,Girardot,#0509,5
+2011-08-26 14:50:00-05:00,Hombre,20,Arma cortopunzante,Facultad de Minas U. Nal,#Inst_5,7
+2011-08-26 22:30:00-05:00,Hombre,48,Arma de fuego,Granada,#1604,16
+2011-08-26 22:10:00-05:00,Hombre,40,No,Astorga,#1420,14
+2011-08-26 08:10:00-05:00,Hombre,27,Arma de fuego,Barrio Colombia,#1401,14
+2011-08-26 12:00:00-05:00,Mujer,38,Arma cortopunzante,Bosques de San Pablo,#0707,7
+2011-08-26 16:50:00-05:00,Mujer,25,Arma cortopunzante,San Diego,#1020,10
+2011-08-26 14:50:00-05:00,Hombre,20,Arma cortopunzante,Facultad de Minas U. Nal,#Inst_5,7
+2011-08-26 08:10:00-05:00,Hombre,27,Arma de fuego,Barrio Colombia,#1401,14
+2011-08-26 12:00:00-05:00,Mujer,38,Arma cortopunzante,Bosques de San Pablo,#0707,7
+2011-08-27 14:00:00-05:00,Mujer,20,No,La Candelaria,#1019,10
+2011-08-27 21:00:00-05:00,Hombre,22,Arma cortopunzante,La Florida,#1417,14
+2011-08-27 10:00:00-05:00,Hombre,43,No,San Martín de Porres,#0606,6
+2011-08-27 07:40:00-05:00,Hombre,49,No,Estación Villa,#1005,10
+2011-08-27 07:50:00-05:00,Hombre,46,Arma de fuego,Campo Valdés No.1,#0410,4
+2011-08-27 14:00:00-05:00,Mujer,20,No,La Candelaria,#1019,10
+2011-08-27 21:00:00-05:00,Hombre,22,Arma cortopunzante,La Florida,#1417,14
+2011-08-28 16:30:00-05:00,Mujer,22,No,La Candelaria,#1019,10
+2011-08-28 11:20:00-05:00,Mujer,27,No,San Javier No.1,#1309,13
+2011-08-28 15:50:00-05:00,Hombre,40,No,Barrio Colón,#1013,10
+2011-08-28 14:00:00-05:00,Hombre,40,Sin dato,San Joaquín,#1104,11
+2011-08-28 18:15:00-05:00,Hombre,18,Arma de fuego,Robledo,#0717,7
+2011-08-28 20:00:00-05:00,Mujer,51,Arma cortopunzante,Robledo,#0717,7
+2011-08-28 14:00:00-05:00,Hombre,40,Sin dato,San Joaquín,#1104,11
+2011-08-28 18:15:00-05:00,Hombre,18,Arma de fuego,Robledo,#0717,7
+2011-08-29 13:30:00-05:00,Hombre,23,No,Villa Nueva,#1018,10
+2011-08-29 10:50:00-05:00,Hombre,28,Arma de fuego,El Poblado,#1418,14
+2011-08-29 16:25:00-05:00,Hombre,22,No,El Rincón,#1610,16
+2011-08-30 21:30:00-05:00,Mujer,24,No,Laureles,#1108,11
+2011-08-30 23:45:00-05:00,Hombre,52,Arma de fuego,Alfonso López,#0514,5
+2011-08-30 09:25:00-05:00,Mujer,45,No,Tricentenario,#0510,5
+2011-08-30 22:30:00-05:00,Hombre,21,Arma de fuego,Francisco Antonio Zea,#0513,5
+2011-08-30 10:15:00-05:00,Hombre,42,Arma de fuego,Los Conquistadores,#1105,11
+2011-08-31 17:55:00-05:00,Mujer,47,Sin dato,San Joaquín,#1104,11
+2011-08-31 12:20:00-05:00,Hombre,42,No,Manila,#1419,14
+2011-08-31 18:00:00-05:00,Hombre,16,No,Calasanz,#1202,12
+2011-08-31 11:00:00-05:00,Hombre,23,Arma cortopunzante,Guayaquil,#1007,10
+2011-08-31 19:15:00-05:00,Hombre,23,Arma de fuego,Castropol,#1404,14
+2011-08-31 16:50:00-05:00,Hombre,53,Arma de fuego,Calle Nueva,#1011,10
+2011-08-31 14:40:00-05:00,Mujer,21,No,Laureles,#1108,11
+2011-09-01 10:00:00-05:00,Hombre,29,Arma de fuego,La Candelaria,#1019,10
+2011-09-01 17:20:00-05:00,Hombre,83,No,La Candelaria,#1019,10
+2011-09-02 15:25:00-05:00,Mujer,29,No,Barrio Colón,#1013,10
+2011-09-02 14:30:00-05:00,Mujer,30,Arma de fuego,Perpetuo Socorro,#1012,10
+2011-09-02 05:30:00-05:00,Hombre,18,Arma cortopunzante,Jardín Botánico,#Inst_10,4
+2011-09-02 16:46:00-05:00,Mujer,21,No,La Candelaria,#1019,10
+2011-09-02 16:00:00-05:00,Mujer,21,Arma cortopunzante,La Candelaria,#1019,10
+2011-09-02 18:45:00-05:00,Hombre,22,No,La Aguacatala,#1422,14
+2011-09-02 18:10:00-05:00,Mujer,23,No,Villa Carlota,#1403,14
+2011-09-02 13:20:00-05:00,Hombre,41,Arma de fuego,El Poblado,#1418,14
+2011-09-02 23:55:00-05:00,Hombre,35,Arma de fuego,Miravalle,#1619,16
+2011-09-02 16:00:00-05:00,Mujer,21,Arma cortopunzante,La Candelaria,#1019,10
+2011-09-02 18:10:00-05:00,Mujer,23,No,Villa Carlota,#1403,14
+2011-09-03 11:00:00-05:00,Mujer,20,No,Parque Norte,#Inst_9,4
+2011-09-03 14:50:00-05:00,Mujer,29,No,La Candelaria,#1019,10
+2011-09-03 21:10:00-05:00,Mujer,18,No,El Poblado,#1418,14
+2011-09-03 21:45:00-05:00,Mujer,21,No,Parque Norte,#Inst_9,4
+2011-09-03 20:50:00-05:00,Hombre,20,Arma cortopunzante,La Candelaria,#1019,10
+2011-09-03 23:05:00-05:00,Hombre,18,Arma cortopunzante,Villa Nueva,#1018,10
+2011-09-03 14:10:00-05:00,Hombre,24,Arma de fuego,Laureles,#1108,11
+2011-09-03 14:30:00-05:00,Mujer,16,Arma de fuego,Estadio,#1113,11
+2011-09-03 17:10:00-05:00,Mujer,36,No,Villa Nueva,#1018,10
+2011-09-03 21:10:00-05:00,Mujer,18,No,El Poblado,#1418,14
+2011-09-03 21:10:00-05:00,Mujer,18,No,El Poblado,#1418,14
+2011-09-04 14:20:00-05:00,Hombre,48,Escopolamina,Laureles,#1108,11
+2011-09-05 21:05:00-05:00,Mujer,20,No,Los Conquistadores,#1105,11
+2011-09-05 20:20:00-05:00,Mujer,17,No,La Candelaria,#1019,10
+2011-09-05 12:20:00-05:00,Mujer,47,No,El Diamante No.2,#1413,14
+2011-09-06 10:16:00-05:00,Mujer,38,No,Villa Nueva,#1018,10
+2011-09-07 18:30:00-05:00,Mujer,65,No,Los Balsos No.2,#1415,14
+2011-09-07 08:40:00-05:00,Hombre,33,Arma de fuego,Los Conquistadores,#1105,11
+2011-09-07 17:00:00-05:00,Hombre,48,Arma de fuego,Simón Bolívar,#1211,12
+2011-09-07 18:30:00-05:00,Mujer,65,No,Los Balsos No.2,#1415,14
+2011-09-07 18:30:00-05:00,Mujer,65,No,Los Balsos No.2,#1415,14
+2011-09-08 15:40:00-05:00,Mujer,21,No,Fátima,#1601,16
+2011-09-08 20:10:00-05:00,Hombre,23,Arma de fuego,Progreso,#0519,5
+2011-09-09 12:50:00-05:00,Hombre,28,Arma cortopunzante,La Candelaria,#1019,10
+2011-09-09 12:50:00-05:00,Hombre,28,Arma cortopunzante,La Candelaria,#1019,10
+2011-09-10 00:35:00-05:00,Hombre,19,Arma cortopunzante,Los Colores,#1114,11
+2011-09-10 09:00:00-05:00,Mujer,28,Arma de fuego,Facultad de Minas U. Nal,#Inst_5,7
+2011-09-10 04:10:00-05:00,Hombre,21,Arma cortopunzante,Robledo,#0717,7
+2011-09-10 09:30:00-05:00,Mujer,20,Arma cortopunzante,Robledo,#0717,7
+2011-09-10 14:50:00-05:00,Sin dato,-1,Arma de fuego,El Poblado,#1418,14
+2011-09-10 23:30:00-05:00,Hombre,15,No,Bermejal-Los Alamos,#0404,4
+2011-09-10 00:35:00-05:00,Hombre,19,Arma cortopunzante,Los Colores,#1114,11
+2011-09-10 04:10:00-05:00,Hombre,21,Arma cortopunzante,Robledo,#0717,7
+2011-09-11 08:40:00-05:00,Mujer,18,Arma cortopunzante,La Piñuela,#0412,4
+2011-09-11 11:30:00-05:00,Hombre,29,Arma cortopunzante,Villa Nueva,#1018,10
+2011-09-12 16:20:00-05:00,Mujer,29,Arma cortopunzante,La Candelaria,#1019,10
+2011-09-12 19:15:00-05:00,Mujer,23,Arma cortopunzante,El Nogal-Los Almendros,#1620,16
+2011-09-12 00:30:00-05:00,Hombre,24,Arma de fuego,Villa Nueva,#1018,10
+2011-09-12 19:15:00-05:00,Mujer,23,Arma cortopunzante,El Nogal-Los Almendros,#1620,16
+2011-09-13 15:28:00-05:00,Mujer,44,No,Los Alcázares,#1304,13
+2011-09-13 13:00:00-05:00,Mujer,24,Arma cortopunzante,Boston,#1016,10
+2011-09-13 13:00:00-05:00,Mujer,24,Arma cortopunzante,Boston,#1016,10
+2011-09-15 14:50:00-05:00,Hombre,26,No,La Candelaria,#1019,10
+2011-09-15 05:40:00-05:00,Hombre,45,Arma de fuego,Santa María de los Ángeles,#1423,14
+2011-09-15 18:00:00-05:00,Mujer,17,No,Estadio,#1113,11
+2011-09-15 14:50:00-05:00,Hombre,26,No,La Candelaria,#1019,10
+2011-09-15 14:50:00-05:00,Hombre,26,No,La Candelaria,#1019,10
+2011-09-15 05:40:00-05:00,Hombre,45,Arma de fuego,Santa María de los Ángeles,#1423,14
+2011-09-15 05:40:00-05:00,Hombre,45,Arma de fuego,Santa María de los Ángeles,#1423,14
+2011-09-16 15:40:00-05:00,Mujer,19,Arma cortopunzante,Fátima,#1601,16
+2011-09-16 15:40:00-05:00,Mujer,19,Arma cortopunzante,Fátima,#1601,16
+2011-09-17 17:50:00-05:00,Mujer,30,No,La Aguacatala,#1422,14
+2011-09-17 22:45:00-05:00,Hombre,31,Arma de fuego,Naranjal,#1103,11
+2011-09-17 23:30:00-05:00,Hombre,20,Arma de fuego,Astorga,#1420,14
+2011-09-17 15:00:00-05:00,Hombre,47,No,La Aguacatala,#1422,14
+2011-09-17 22:45:00-05:00,Hombre,31,Arma de fuego,Naranjal,#1103,11
+2011-09-17 22:45:00-05:00,Hombre,31,Arma de fuego,Naranjal,#1103,11
+2011-09-17 23:30:00-05:00,Hombre,20,Arma de fuego,Astorga,#1420,14
+2011-09-17 23:30:00-05:00,Hombre,20,Arma de fuego,Astorga,#1420,14
+2011-09-18 12:20:00-05:00,Mujer,30,Arma cortopunzante,Villa Nueva,#1018,10
+2011-09-18 18:00:00-05:00,Hombre,17,Arma cortopunzante,Santa María de los Ángeles,#1423,14
+2011-09-18 18:00:00-05:00,Hombre,17,Arma cortopunzante,Santa María de los Ángeles,#1423,14
+2011-09-18 18:00:00-05:00,Hombre,17,Arma cortopunzante,Santa María de los Ángeles,#1423,14
+2011-09-18 18:00:00-05:00,Hombre,17,Arma cortopunzante,Santa María de los Ángeles,#1423,14
+2011-09-19 18:30:00-05:00,Hombre,35,Arma de fuego,Los Colores,#1114,11
+2011-09-19 15:10:00-05:00,Hombre,24,No,La Florida,#1417,14
+2011-09-19 05:45:00-05:00,Hombre,40,Arma de fuego,Castilla,#0511,5
+2011-09-19 16:30:00-05:00,Hombre,18,Arma cortopunzante,Rosales,#1602,16
+2011-09-19 18:30:00-05:00,Hombre,35,Arma de fuego,Los Colores,#1114,11
+2011-09-20 08:15:00-05:00,Hombre,40,No,Boston,#1016,10
+2011-09-20 03:30:00-05:00,Hombre,39,Arma de fuego,La Castellana,#1110,11
+2011-09-20 12:00:00-05:00,Mujer,25,No,Caribe,#0517,5
+2011-09-20 03:30:00-05:00,Hombre,39,Arma de fuego,La Castellana,#1110,11
+2011-09-21 17:10:00-05:00,Hombre,26,No,Manila,#1419,14
+2011-09-21 08:10:00-05:00,Mujer,19,No,Santa Mónica,#1209,12
+2011-09-23 03:30:00-05:00,Mujer,38,No,Barrio Colombia,#1401,14
+2011-09-22 21:03:00-05:00,Mujer,46,No,El Chagualo,#1004,10
+2011-09-22 16:30:00-05:00,Hombre,37,Arma de fuego,Popular,#0103,1
+2011-09-22 11:30:00-05:00,Hombre,28,Arma de fuego,Campo Amor,#1507,15
+2011-09-22 15:25:00-05:00,Hombre,29,Arma de fuego,Pedregal,#0604,6
+2011-09-22 17:00:00-05:00,Hombre,30,Arma de fuego,Moravia,#0405,4
+2011-09-22 07:00:00-05:00,Hombre,35,Arma de fuego,Guayabal,#1510,15
+2011-09-22 21:03:00-05:00,Mujer,46,No,El Chagualo,#1004,10
+2011-09-22 16:30:00-05:00,Hombre,37,Arma de fuego,Popular,#0103,1
+2011-09-22 15:25:00-05:00,Hombre,29,Arma de fuego,Pedregal,#0604,6
+2011-09-22 15:25:00-05:00,Hombre,29,Arma de fuego,Pedregal,#0604,6
+2011-09-24 18:30:00-05:00,Hombre,40,Arma cortopunzante,Alejandría,#1416,14
+2011-09-24 00:00:00-05:00,Mujer,60,Arma cortopunzante,San Bernardo,#1605,16
+2011-09-24 19:50:00-05:00,Mujer,25,Arma de fuego,Bomboná No.2,#0903,9
+2011-09-24 15:05:00-05:00,Hombre,27,Arma de fuego,Santa Fé,#1504,15
+2011-09-24 15:05:00-05:00,Mujer,25,Arma cortopunzante,La Loma de los Bernal,#1611,16
+2011-09-24 21:55:00-05:00,Mujer,41,Arma de fuego,Alfonso López,#0514,5
+2011-09-24 21:15:00-05:00,Mujer,22,Arma de fuego,Belén,#1603,16
+2011-09-24 18:30:00-05:00,Hombre,40,Arma cortopunzante,Alejandría,#1416,14
+2011-09-24 18:30:00-05:00,Hombre,40,Arma cortopunzante,Alejandría,#1416,14
+2011-09-24 15:05:00-05:00,Mujer,25,Arma cortopunzante,La Loma de los Bernal,#1611,16
+2011-09-25 14:40:00-05:00,Hombre,23,Arma cortopunzante,Villa Nueva,#1018,10
+2011-09-25 01:10:00-05:00,Hombre,21,Arma de fuego,La Floresta,#1205,12
+2011-09-25 03:15:00-05:00,Hombre,28,Arma de fuego,La América,#1204,12
+2011-09-26 11:00:00-05:00,Hombre,35,Arma de fuego,Alejandro Echavarría,#0905,9
+2011-09-26 15:45:00-05:00,Hombre,51,No,Perpetuo Socorro,#1012,10
+2011-09-27 21:00:00-05:00,Hombre,34,No,La Aguacatala,#1422,14
+2011-09-27 16:00:00-05:00,Hombre,19,Sin dato,Patio Bonito,#1421,14
+2011-09-27 08:00:00-05:00,Mujer,85,Sin dato,Las Lomas No.1,#1406,14
+2011-09-27 07:00:00-05:00,Mujer,83,Sin dato,Manila,#1419,14
+2011-09-27 21:00:00-05:00,Hombre,34,No,La Aguacatala,#1422,14
+2011-09-27 21:00:00-05:00,Hombre,34,No,La Aguacatala,#1422,14
+2011-09-28 09:15:00-05:00,Hombre,21,Arma cortopunzante,Villa Nueva,#1018,10
+2011-09-28 15:30:00-05:00,Mujer,21,Arma cortopunzante,Rosales,#1602,16
+2011-09-28 17:05:00-05:00,Mujer,49,No,Patio Bonito,#1421,14
+2011-09-28 20:40:00-05:00,Mujer,29,No,La Pilarica,#0706,7
+2011-09-28 15:30:00-05:00,Mujer,21,Arma cortopunzante,Rosales,#1602,16
+2011-09-28 15:30:00-05:00,Mujer,21,Arma cortopunzante,Rosales,#1602,16
+2011-09-28 17:05:00-05:00,Mujer,49,No,Patio Bonito,#1421,14
+2011-09-28 20:40:00-05:00,Mujer,29,No,La Pilarica,#0706,7
+2011-09-29 11:20:00-05:00,Mujer,30,No,Prado,#1001,10
+2011-09-30 12:40:00-05:00,Mujer,18,No,Alejandro Echavarría,#0905,9
+2011-09-30 10:30:00-05:00,Hombre,17,Arma cortopunzante,La Pilarica,#0706,7
+2011-10-01 15:05:00-05:00,Hombre,19,No,La Candelaria,#1019,10
+2011-10-01 11:20:00-05:00,Hombre,38,Arma cortopunzante,El Velódromo,#1112,11
+2011-10-01 23:15:00-05:00,Hombre,23,Arma de fuego,La Castellana,#1110,11
+2011-10-01 20:30:00-05:00,Hombre,40,Arma cortopunzante,La Castellana,#1110,11
+2011-10-01 11:20:00-05:00,Hombre,38,Arma cortopunzante,El Velódromo,#1112,11
+2011-10-01 11:20:00-05:00,Hombre,38,Arma cortopunzante,El Velódromo,#1112,11
+2011-10-01 11:20:00-05:00,Hombre,38,Arma cortopunzante,El Velódromo,#1112,11
+2011-10-01 23:15:00-05:00,Hombre,23,Arma de fuego,La Castellana,#1110,11
+2011-10-01 23:15:00-05:00,Hombre,23,Arma de fuego,La Castellana,#1110,11
+2011-10-02 04:00:00-05:00,Hombre,18,No,El Poblado,#1418,14
+2011-10-02 14:20:00-05:00,Mujer,39,No,Berlin,#0401,4
+2011-10-02 07:15:00-05:00,Hombre,22,Arma de fuego,Castilla,#0511,5
+2011-10-02 09:50:00-05:00,Mujer,30,No,El Poblado,#1418,14
+2011-10-03 13:15:00-05:00,Mujer,35,Arma de fuego,Jardín Botánico,#Inst_10,4
+2011-10-03 21:40:00-05:00,Hombre,22,No,Suramericana,#1102,11
+2011-10-04 14:13:00-05:00,Mujer,25,No,Barrio Colón,#1013,10
+2011-10-04 10:35:00-05:00,Mujer,53,Arma cortopunzante,El Nogal-Los Almendros,#1620,16
+2011-10-04 11:20:00-05:00,Hombre,25,No,El Poblado,#1418,14
+2011-10-04 15:30:00-05:00,Hombre,26,Arma de fuego,Universidad de Antioquia,#Inst_11,4
+2011-10-04 15:30:00-05:00,Hombre,35,Arma de fuego,La Floresta,#1205,12
+2011-10-04 01:00:00-05:00,Hombre,72,Arma cortopunzante,Villatina,#0813,8
+2011-10-04 22:20:00-05:00,Mujer,57,No,Santa Cruz,#0210,2
+2011-10-04 21:30:00-05:00,Hombre,24,No,Perpetuo Socorro,#1012,10
+2011-10-04 11:00:00-05:00,Hombre,21,Arma de fuego,Versalles No.1,#0309,3
+2011-10-04 16:00:00-05:00,Mujer,65,No,Naranjal,#1103,11
+2011-10-04 14:00:00-05:00,Hombre,61,No,Belalcázar,#0508,5
+2011-10-04 21:30:00-05:00,Hombre,19,Arma cortopunzante,La Aguacatala,#1422,14
+2011-10-04 11:00:00-05:00,Hombre,63,Arma de fuego,El Poblado,#1418,14
+2011-10-04 14:13:00-05:00,Mujer,25,No,Barrio Colón,#1013,10
+2011-10-04 14:13:00-05:00,Mujer,25,No,Barrio Colón,#1013,10
+2011-10-04 14:13:00-05:00,Mujer,25,No,Barrio Colón,#1013,10
+2011-10-04 15:30:00-05:00,Hombre,26,Arma de fuego,Universidad de Antioquia,#Inst_11,4
+2011-10-04 15:30:00-05:00,Hombre,26,Arma de fuego,Universidad de Antioquia,#Inst_11,4
+2011-10-04 15:30:00-05:00,Hombre,26,Arma de fuego,Universidad de Antioquia,#Inst_11,4
+2011-10-04 22:20:00-05:00,Mujer,57,No,Santa Cruz,#0210,2
+2011-10-04 22:20:00-05:00,Mujer,57,No,Santa Cruz,#0210,2
+2011-10-04 11:00:00-05:00,Hombre,21,Arma de fuego,Versalles No.1,#0309,3
+2011-10-04 16:00:00-05:00,Mujer,65,No,Naranjal,#1103,11
+2011-10-04 14:00:00-05:00,Hombre,61,No,Belalcázar,#0508,5
+2011-10-04 11:00:00-05:00,Hombre,63,Arma de fuego,El Poblado,#1418,14
+2011-10-05 11:20:00-05:00,Hombre,29,Arma de fuego,Los Ángeles,#1017,10
+2011-10-05 13:50:00-05:00,Mujer,27,Arma de fuego,Manrique Central No.2,#0307,3
+2011-10-05 15:35:00-05:00,Mujer,24,No,Sevilla,#0407,4
+2011-10-05 00:10:00-05:00,Hombre,45,Arma cortopunzante,La Pradera,#1306,13
+2011-10-05 00:00:00-05:00,Hombre,27,Arma de fuego,Pablo VI,#0203,2
+2011-10-05 00:10:00-05:00,Hombre,45,Arma cortopunzante,La Pradera,#1306,13
+2011-10-07 22:35:00-05:00,Mujer,40,No,Guayaquil,#1007,10
+2011-10-07 17:05:00-05:00,Mujer,61,No,Belén,#1603,16
+2011-10-08 03:50:00-05:00,Hombre,22,No,San Bernardo,#1605,16
+2011-10-08 02:00:00-05:00,Mujer,27,Arma de fuego,Estadio,#1113,11
+2011-10-08 03:35:00-05:00,Hombre,32,Arma de fuego,Altos del Poblado,#1408,14
+2011-10-08 02:00:00-05:00,Mujer,27,Arma de fuego,Estadio,#1113,11
+2011-10-08 03:35:00-05:00,Hombre,32,Arma de fuego,Altos del Poblado,#1408,14
+2011-10-09 20:45:00-05:00,Mujer,23,Arma cortopunzante,Manila,#1419,14
+2011-10-09 20:30:00-05:00,Mujer,30,No,Las Palmas,#1014,10
+2011-10-09 20:45:00-05:00,Mujer,23,Arma cortopunzante,Manila,#1419,14
+2011-10-09 20:45:00-05:00,Mujer,23,Arma cortopunzante,Manila,#1419,14
+2011-10-09 20:30:00-05:00,Mujer,30,No,Las Palmas,#1014,10
+2011-10-10 12:45:00-05:00,Mujer,61,No,Boston,#1016,10
+2011-10-11 04:10:00-05:00,Hombre,32,Escopolamina,La Candelaria,#1019,10
+2011-10-11 04:10:00-05:00,Hombre,32,Escopolamina,La Candelaria,#1019,10
+2011-10-12 13:50:00-05:00,Mujer,34,No,Los Balsos No.2,#1415,14
+2011-10-12 16:17:00-05:00,Mujer,17,Objeto contundente,Parque Norte,#Inst_9,4
+2011-10-12 11:30:00-05:00,Mujer,28,Sin dato,El Poblado,#1418,14
+2011-10-12 17:25:00-05:00,Mujer,27,No,Calasanz,#1202,12
+2011-10-13 10:35:00-05:00,Hombre,33,No,El Diamante No.2,#1413,14
+2011-10-13 14:50:00-05:00,Mujer,28,Arma de fuego,Barrio Colón,#1013,10
+2011-10-13 17:00:00-05:00,Hombre,18,No,La Pilarica,#0706,7
+2011-10-14 02:10:00-05:00,Mujer,38,No,Manila,#1419,14
+2011-10-14 10:30:00-05:00,Mujer,20,Arma cortopunzante,San Javier No.2,#1308,13
+2011-10-14 10:30:00-05:00,Hombre,29,No,Cristo Rey,#1509,15
+2011-10-14 10:30:00-05:00,Hombre,29,No,Cristo Rey,#1509,15
+2011-10-15 14:30:00-05:00,Hombre,32,Objeto contundente,Jesús Nazareno,#1003,10
+2011-10-15 01:30:00-05:00,Mujer,42,Arma cortopunzante,Campo Alegre,#1208,12
+2011-10-15 22:00:00-05:00,Hombre,50,Sin dato,Los Balsos No.2,#1415,14
+2011-10-15 14:30:00-05:00,Hombre,32,Objeto contundente,Jesús Nazareno,#1003,10
+2011-10-15 22:00:00-05:00,Hombre,50,Sin dato,Los Balsos No.2,#1415,14
+2011-10-16 16:50:00-05:00,Mujer,24,No,San Javier No.1,#1309,13
+2011-10-16 11:45:00-05:00,Hombre,25,No,Naranjal,#1103,11
+2011-10-18 20:35:00-05:00,Hombre,23,Arma cortopunzante,La Candelaria,#1019,10
+2011-10-18 20:35:00-05:00,Hombre,23,Arma cortopunzante,La Candelaria,#1019,10
+2011-10-19 10:45:00-05:00,Hombre,50,No,Los Ángeles,#1017,10
+2011-10-19 14:40:00-05:00,Mujer,48,No,Patio Bonito,#1421,14
+2011-10-19 15:15:00-05:00,Mujer,31,Arma de fuego,Las Esmeraldas,#0411,4
+2011-10-19 15:20:00-05:00,Hombre,65,No,Bolivariana,#1107,11
+2011-10-19 20:45:00-05:00,Hombre,23,Arma de fuego,San Javier No.1,#1309,13
+2011-10-19 17:30:00-05:00,Hombre,25,No,La Candelaria,#1019,10
+2011-10-20 11:30:00-05:00,Hombre,34,No,El Poblado,#1418,14
+2011-10-20 09:30:00-05:00,Hombre,29,Objeto contundente,Parque Juan Pablo II,#Inst_19,15
+2011-10-20 05:45:00-05:00,Mujer,43,Arma cortopunzante,San Diego,#1020,10
+2011-10-21 10:00:00-05:00,Mujer,29,Arma de fuego,Barrio Colón,#1013,10
+2011-10-21 17:10:00-05:00,Hombre,29,Arma de fuego,Corazón de Jesús,#1008,10
+2011-10-21 20:10:00-05:00,Hombre,41,No,Naranjal,#1103,11
+2011-10-21 18:42:00-05:00,Hombre,18,Objeto contundente,El Salado,#1316,13
+2011-10-21 08:00:00-05:00,Hombre,63,Sin dato,El Poblado,#1418,14
+2011-10-21 08:00:00-05:00,Hombre,63,Sin dato,El Poblado,#1418,14
+2011-10-21 08:00:00-05:00,Hombre,63,Sin dato,El Poblado,#1418,14
+2011-10-22 12:45:00-05:00,Mujer,41,Arma de fuego,Los Conquistadores,#1105,11
+2011-10-22 00:50:00-05:00,Hombre,18,No,El Poblado,#1418,14
+2011-10-22 19:00:00-05:00,Hombre,16,Arma cortopunzante,Astorga,#1420,14
+2011-10-22 00:50:00-05:00,Hombre,16,No,El Poblado,#1418,14
+2011-10-22 11:05:00-05:00,Hombre,37,Arma de fuego,San Pedro,#0408,4
+2011-10-22 12:45:00-05:00,Mujer,41,Arma de fuego,Los Conquistadores,#1105,11
+2011-10-23 16:20:00-05:00,Hombre,48,No,La Candelaria,#1019,10
+2011-10-23 02:00:00-05:00,Hombre,27,Arma cortopunzante,Barrio Colombia,#1401,14
+2011-10-24 08:30:00-05:00,Hombre,45,No,Boston,#1016,10
+2011-10-24 15:20:00-05:00,Mujer,30,No,Barrio Colón,#1013,10
+2011-10-24 04:30:00-05:00,Hombre,24,Arma de fuego,Asomadera No.2,#0915,9
+2011-10-24 23:45:00-05:00,Hombre,31,Arma cortopunzante,Villa Nueva,#1018,10
+2011-10-24 02:20:00-05:00,Mujer,33,Arma cortopunzante,La Candelaria,#1019,10
+2011-10-24 17:40:00-05:00,Mujer,28,Arma cortopunzante,Campo Alegre,#1208,12
+2011-10-24 09:20:00-05:00,Hombre,41,Arma de fuego,San Benito,#1006,10
+2011-10-24 23:45:00-05:00,Hombre,31,Arma cortopunzante,Villa Nueva,#1018,10
+2011-10-24 02:20:00-05:00,Mujer,33,Arma cortopunzante,La Candelaria,#1019,10
+2011-10-26 03:40:00-05:00,Hombre,25,No,El Poblado,#1418,14
+2011-10-26 18:45:00-05:00,Hombre,40,Arma de fuego,El Rincón,#1610,16
+2011-10-26 18:45:00-05:00,Hombre,40,Arma de fuego,El Rincón,#1610,16
+2011-10-26 18:45:00-05:00,Hombre,40,Arma de fuego,El Rincón,#1610,16
+2011-10-27 19:30:00-05:00,Mujer,20,Arma de fuego,Villa Nueva,#1018,10
+2011-10-27 16:10:00-05:00,Hombre,51,No,La Candelaria,#1019,10
+2011-10-27 08:30:00-05:00,Mujer,27,No,Villa Carlota,#1403,14
+2011-10-27 11:00:00-05:00,Mujer,61,No,Villa Carlota,#1403,14
+2011-10-27 16:50:00-05:00,Hombre,29,Arma de fuego,El Velódromo,#1112,11
+2011-10-27 11:00:00-05:00,Mujer,61,No,Villa Carlota,#1403,14
+2011-10-28 23:30:00-05:00,Mujer,29,Arma cortopunzante,Sevilla,#0407,4
+2011-10-28 15:50:00-05:00,Hombre,21,Arma cortopunzante,Parque Norte,#Inst_9,4
+2011-10-28 23:30:00-05:00,Hombre,22,No,La Candelaria,#1019,10
+2011-10-28 18:40:00-05:00,Hombre,18,No,Boston,#1016,10
+2011-10-28 23:30:00-05:00,Hombre,22,No,La Candelaria,#1019,10
+2011-10-29 19:00:00-05:00,Hombre,54,Arma de fuego,Campo Amor,#1507,15
+2011-10-29 01:00:00-05:00,Hombre,48,Arma de fuego,La Candelaria,#1019,10
+2011-10-30 16:20:00-05:00,Mujer,23,Arma cortopunzante,Manila,#1419,14
+2011-10-30 16:30:00-05:00,Mujer,58,No,Caribe,#0517,5
+2011-10-30 04:40:00-05:00,Hombre,22,Arma de fuego,San Jose de La Montaña,#6007,60
+2011-10-31 18:15:00-05:00,Hombre,35,No,Área Urbana Cgto. San Antonio de Prado,#AUC2,80
+2011-10-31 12:30:00-05:00,Mujer,35,No,La Gloria,#1612,16
+2011-10-31 13:00:00-05:00,Mujer,59,No,La Candelaria,#1019,10
+2011-11-01 15:00:00-05:00,Mujer,19,No,La Candelaria,#1019,10
+2011-11-01 03:30:00-05:00,Hombre,45,Arma cortopunzante,Estadio,#1113,11
+2011-11-01 18:00:00-05:00,Hombre,25,Arma de fuego,Fátima,#1601,16
+2011-11-01 22:00:00-05:00,Hombre,41,Sin dato,El Poblado,#1418,14
+2011-11-01 03:30:00-05:00,Hombre,45,Arma cortopunzante,Estadio,#1113,11
+2011-11-02 07:15:00-05:00,Hombre,20,No,La Floresta,#1205,12
+2011-11-02 15:10:00-05:00,Hombre,52,No,Cuarta Brigada,#1115,11
+2011-11-02 10:30:00-05:00,Hombre,31,No,Caribe,#0517,5
+2011-11-03 07:45:00-05:00,Mujer,31,No,La Castellana,#1110,11
+2011-11-03 19:30:00-05:00,Mujer,25,No,Barrio Colón,#1013,10
+2011-11-03 13:50:00-05:00,Mujer,28,No,El Poblado,#1418,14
+2011-11-03 13:50:00-05:00,Mujer,28,No,El Poblado,#1418,14
+2011-11-04 11:25:00-05:00,Mujer,27,Arma de fuego,Rosales,#1602,16
+2011-11-04 13:15:00-05:00,Hombre,30,Arma de fuego,Jesús Nazareno,#1003,10
+2011-11-04 17:25:00-05:00,Hombre,26,Arma de fuego,Los Ángeles,#1017,10
+2011-11-04 09:10:00-05:00,Hombre,44,No,Caribe,#0517,5
+2011-11-04 01:00:00-05:00,Hombre,18,No,El Velódromo,#1112,11
+2011-11-04 18:15:00-05:00,Mujer,18,No,La Candelaria,#1019,10
+2011-11-04 18:50:00-05:00,Sin dato,-1,No,La Candelaria,#1019,10
+2011-11-04 13:15:00-05:00,Hombre,30,Arma de fuego,Jesús Nazareno,#1003,10
+2011-11-04 13:15:00-05:00,Hombre,30,Arma de fuego,Jesús Nazareno,#1003,10
+2011-11-04 13:15:00-05:00,Hombre,30,Arma de fuego,Jesús Nazareno,#1003,10
+2011-11-04 09:10:00-05:00,Hombre,44,No,Caribe,#0517,5
+2011-11-05 19:00:00-05:00,Mujer,42,No,Barrio Colón,#1013,10
+2011-11-05 17:30:00-05:00,Hombre,62,No,La Candelaria,#1019,10
+2011-11-05 09:15:00-05:00,Hombre,49,No,Hospital San Vicente de Paúl,#Inst_12,10
+2011-11-05 21:05:00-05:00,Mujer,39,No,Villa Carlota,#1403,14
+2011-11-05 14:28:00-05:00,Mujer,51,Arma de fuego,Los Conquistadores,#1105,11
+2011-11-05 21:05:00-05:00,Mujer,39,No,Villa Carlota,#1403,14
+2011-11-06 18:00:00-05:00,Hombre,26,Arma de fuego,San Miguel,#0803,8
+2011-11-07 11:45:00-05:00,Hombre,47,Arma cortopunzante,San Pedro,#0408,4
+2011-11-07 15:35:00-05:00,Hombre,47,Arma cortopunzante,La Candelaria,#1019,10
+2011-11-07 20:00:00-05:00,Hombre,19,Arma cortopunzante,La Candelaria,#1019,10
+2011-11-07 17:35:00-05:00,Mujer,46,Arma cortopunzante,Boston,#1016,10
+2011-11-07 08:00:00-05:00,Hombre,29,Objeto contundente,Belén,#1603,16
+2011-11-07 11:45:00-05:00,Hombre,47,Arma cortopunzante,San Pedro,#0408,4
+2011-11-08 14:25:00-05:00,Hombre,47,No,San Diego,#1020,10
+2011-11-08 10:00:00-05:00,Mujer,76,No,Alejandría,#1416,14
+2011-11-08 16:15:00-05:00,Mujer,22,Arma de fuego,Santa María de los Ángeles,#1423,14
+2011-11-08 11:40:00-05:00,Mujer,19,No,Guayaquil,#1007,10
+2011-11-09 19:00:00-05:00,Hombre,40,No,Barrio Colón,#1013,10
+2011-11-09 10:35:00-05:00,Mujer,64,Arma de fuego,Los Conquistadores,#1105,11
+2011-11-09 18:00:00-05:00,Hombre,59,No,El Poblado,#1418,14
+2011-11-09 17:50:00-05:00,Hombre,19,Arma de fuego,El Poblado,#1418,14
+2011-11-10 18:00:00-05:00,Mujer,30,No,Belén,#1603,16
+2011-11-10 16:00:00-05:00,Hombre,21,Arma de fuego,Caribe,#0517,5
+2011-11-10 21:15:00-05:00,Hombre,21,Arma cortopunzante,Campo Amor,#1507,15
+2011-11-10 21:15:00-05:00,Hombre,21,Arma cortopunzante,Campo Amor,#1507,15
+2011-11-11 13:00:00-05:00,Hombre,38,Arma de fuego,Bello Horizonte,#0714,7
+2011-11-11 19:30:00-05:00,Hombre,48,Arma de fuego,Naranjal,#1103,11
+2011-11-11 19:30:00-05:00,Hombre,48,Arma de fuego,Naranjal,#1103,11
+2011-11-12 21:00:00-05:00,Mujer,22,Arma de fuego,Jesús Nazareno,#1003,10
+2011-11-12 13:10:00-05:00,Mujer,33,Arma cortopunzante,La Candelaria,#1019,10
+2011-11-12 21:05:00-05:00,Mujer,26,No,La Candelaria,#1019,10
+2011-11-12 13:50:00-05:00,Hombre,30,Arma de fuego,Campo Amor,#1507,15
+2011-11-12 15:45:00-05:00,Hombre,13,Arma cortopunzante,Estadio,#1113,11
+2011-11-12 19:45:00-05:00,Hombre,46,Arma cortopunzante,Patio Bonito,#1421,14
+2011-11-12 11:59:00-05:00,Hombre,28,Sin dato,El Poblado,#1418,14
+2011-11-12 19:45:00-05:00,Hombre,46,Arma cortopunzante,Patio Bonito,#1421,14
+2011-11-15 02:00:00-05:00,Hombre,29,Arma de fuego,Bermejal-Los Alamos,#0404,4
+2011-11-15 11:15:00-05:00,Mujer,72,Objeto contundente,La Candelaria,#1019,10
+2011-11-15 18:10:00-05:00,Mujer,26,Objeto contundente,Estadio,#1113,11
+2011-11-15 11:15:00-05:00,Mujer,72,Objeto contundente,La Candelaria,#1019,10
+2011-11-16 09:00:00-05:00,Hombre,24,Objeto contundente,Calle Nueva,#1011,10
+2011-11-16 17:10:00-05:00,Mujer,21,Arma cortopunzante,Guayaquil,#1007,10
+2011-11-16 18:50:00-05:00,Hombre,32,Arma de fuego,Naranjal,#1103,11
+2011-11-17 15:00:00-05:00,Hombre,28,Arma cortopunzante,Caribe,#0517,5
+2011-11-17 14:30:00-05:00,Hombre,21,Arma cortopunzante,Barrio Colón,#1013,10
+2011-11-17 13:30:00-05:00,Hombre,55,Objeto contundente,Estación Villa,#1005,10
+2011-11-17 22:30:00-05:00,Hombre,34,Arma de fuego,Los Pinos,#1203,12
+2011-11-17 08:30:00-05:00,Hombre,30,Arma de fuego,San Diego,#1020,10
+2011-11-17 22:30:00-05:00,Hombre,22,Arma de fuego,Los Pinos,#1203,12
+2011-11-17 08:30:00-05:00,Hombre,30,Arma de fuego,San Diego,#1020,10
+2011-11-19 20:30:00-05:00,Mujer,19,Arma cortopunzante,San Diego,#1020,10
+2011-11-19 07:40:00-05:00,Mujer,32,No,Tejelo,#0504,5
+2011-11-19 11:30:00-05:00,Mujer,24,No,La Candelaria,#1019,10
+2011-11-19 11:05:00-05:00,Hombre,59,No,Cristo Rey,#1509,15
+2011-11-19 21:30:00-05:00,Hombre,46,No,La Candelaria,#1019,10
+2011-11-19 17:30:00-05:00,Hombre,57,No,Santa Margarita,#0720,7
+2011-11-19 14:30:00-05:00,Sin dato,-1,Arma de fuego,La Pilarica,#0706,7
+2011-11-20 05:30:00-05:00,Hombre,27,Arma cortopunzante,Campo Valdés No.1,#0410,4
+2011-11-20 05:30:00-05:00,Hombre,27,Arma cortopunzante,Campo Valdés No.1,#0410,4
+2011-11-21 10:45:00-05:00,Mujer,22,No,La Candelaria,#1019,10
+2011-11-21 16:30:00-05:00,Mujer,38,No,La Candelaria,#1019,10
+2011-11-21 20:40:00-05:00,Mujer,18,Arma cortopunzante,Florida Nueva,#1117,11
+2011-11-21 10:45:00-05:00,Mujer,24,Arma cortopunzante,Los Colores,#1114,11
+2011-11-21 20:40:00-05:00,Mujer,18,Arma cortopunzante,Florida Nueva,#1117,11
+2011-11-22 20:55:00-05:00,Hombre,23,Arma cortopunzante,Barrio Colón,#1013,10
+2011-11-22 17:05:00-05:00,Hombre,36,Arma cortopunzante,Estación Villa,#1005,10
+2011-11-22 11:05:00-05:00,Mujer,45,No,Enciso,#0808,8
+2011-11-22 15:50:00-05:00,Hombre,12,Arma cortopunzante,La América,#1204,12
+2011-11-22 13:10:00-05:00,Mujer,23,No,Toscana,#0501,5
+2011-11-22 20:55:00-05:00,Hombre,23,Arma cortopunzante,Barrio Colón,#1013,10
+2011-11-22 20:55:00-05:00,Hombre,23,Arma cortopunzante,Barrio Colón,#1013,10
+2011-11-22 17:05:00-05:00,Hombre,36,Arma cortopunzante,Estación Villa,#1005,10
+2011-11-22 11:05:00-05:00,Mujer,45,No,Enciso,#0808,8
+2011-11-23 15:45:00-05:00,Mujer,21,Arma cortopunzante,Santa Fé,#1504,15
+2011-11-23 17:00:00-05:00,Mujer,19,No,San Diego,#1020,10
+2011-11-23 12:15:00-05:00,Hombre,31,No,San Miguel,#0803,8
+2011-11-23 15:45:00-05:00,Mujer,21,Arma cortopunzante,Santa Fé,#1504,15
+2011-11-23 17:00:00-05:00,Mujer,19,No,San Diego,#1020,10
+2011-11-23 17:00:00-05:00,Mujer,19,No,San Diego,#1020,10
+2011-11-23 17:00:00-05:00,Mujer,19,No,San Diego,#1020,10
+2011-11-23 17:00:00-05:00,Mujer,19,No,San Diego,#1020,10
+2011-11-24 15:40:00-05:00,Mujer,40,No,San Bernardo,#1605,16
+2011-11-24 19:50:00-05:00,Mujer,46,Arma cortopunzante,Boston,#1016,10
+2011-11-24 15:40:00-05:00,Mujer,40,No,San Bernardo,#1605,16
+2011-11-24 15:40:00-05:00,Mujer,40,No,San Bernardo,#1605,16
+2011-11-24 15:40:00-05:00,Mujer,40,No,San Bernardo,#1605,16
+2011-11-25 11:50:00-05:00,Hombre,19,Arma cortopunzante,Suramericana,#1102,11
+2011-11-25 20:30:00-05:00,Hombre,21,No,La Candelaria,#1019,10
+2011-11-25 06:15:00-05:00,Mujer,31,Arma de fuego,Perpetuo Socorro,#1012,10
+2011-11-25 20:30:00-05:00,Hombre,21,No,La Candelaria,#1019,10
+2011-11-25 06:15:00-05:00,Mujer,31,Arma de fuego,Perpetuo Socorro,#1012,10
+2011-11-27 02:00:00-05:00,Hombre,37,Arma cortopunzante,Bosques de San Pablo,#0707,7
+2011-11-27 15:50:00-05:00,Mujer,46,Arma cortopunzante,San Benito,#1006,10
+2011-11-27 16:55:00-05:00,Hombre,28,Arma de fuego,La Pilarica,#0706,7
+2011-11-27 16:55:00-05:00,Hombre,28,Arma de fuego,La Pilarica,#0706,7
+2011-11-28 09:00:00-05:00,Mujer,26,Objeto contundente,San Joaquín,#1104,11
+2011-11-28 16:40:00-05:00,Mujer,25,Arma cortopunzante,San Benito,#1006,10
+2011-11-28 12:15:00-05:00,Hombre,19,No,Rosales,#1602,16
+2011-11-28 18:20:00-05:00,Mujer,30,Arma cortopunzante,Barrio Colón,#1013,10
+2011-11-28 19:10:00-05:00,Hombre,22,Arma cortopunzante,San Benito,#1006,10
+2011-11-28 17:20:00-05:00,Hombre,51,Arma cortopunzante,Barrio Colón,#1013,10
+2011-11-28 13:25:00-05:00,Hombre,37,Arma de fuego,Tricentenario,#0510,5
+2011-11-28 20:00:00-05:00,Mujer,78,Sin dato,Sin dato,SIN DATO,SIN DATO
+2011-11-28 18:20:00-05:00,Mujer,30,Arma cortopunzante,Barrio Colón,#1013,10
+2011-11-29 10:20:00-05:00,Hombre,44,No,Progreso,#0519,5
+2011-11-29 12:25:00-05:00,Mujer,28,No,Prado,#1001,10
+2011-11-29 14:45:00-05:00,Hombre,29,Arma cortopunzante,Sevilla,#0407,4
+2011-11-29 00:30:00-05:00,Hombre,55,No,El Chagualo,#1004,10
+2011-11-29 21:20:00-05:00,Sin dato,-1,Arma de fuego,Naranjal,#1103,11
+2011-11-29 10:20:00-05:00,Hombre,44,No,Progreso,#0519,5
+2011-11-29 00:30:00-05:00,Hombre,55,No,El Chagualo,#1004,10
+2011-11-30 14:30:00-05:00,Hombre,52,No,La Candelaria,#1019,10
+2011-11-30 11:30:00-05:00,Hombre,46,Arma de fuego,La Mansión,#0802,8
+2011-11-30 12:05:00-05:00,Hombre,21,Arma de fuego,Laureles,#1108,11
+2011-12-01 18:10:00-05:00,Hombre,46,Arma cortopunzante,Barrio Colón,#1013,10
+2011-12-01 16:55:00-05:00,Mujer,35,No,Santa Fé,#1504,15
+2011-12-01 18:45:00-05:00,Hombre,23,Arma cortopunzante,Jesús Nazareno,#1003,10
+2011-12-01 18:10:00-05:00,Sin dato,-1,Sin dato,Naranjal,#1103,11
+2011-12-02 11:40:00-05:00,Mujer,17,No,Barrio Colombia,#1401,14
+2011-12-02 17:55:00-05:00,Hombre,23,No,Laureles,#1108,11
+2011-12-02 02:00:00-05:00,Hombre,28,No,Santa María de los Ángeles,#1423,14
+2011-12-02 15:00:00-05:00,Hombre,63,Objeto contundente,Robledo,#0717,7
+2011-12-02 22:00:00-05:00,Sin dato,-1,Arma de fuego,Estadio,#1113,11
+2011-12-02 20:00:00-05:00,Sin dato,-1,Arma de fuego,La Floresta,#1205,12
+2011-12-02 00:00:00-05:00,Sin dato,-1,Sin dato,Naranjal,#1103,11
+2011-12-03 22:40:00-05:00,Mujer,42,Arma de fuego,Miraflores,#0908,9
+2011-12-03 10:52:00-05:00,Hombre,25,Arma cortopunzante,Barrio Colón,#1013,10
+2011-12-03 20:50:00-05:00,Hombre,27,Arma cortopunzante,El Poblado,#1418,14
+2011-12-03 13:30:00-05:00,Hombre,31,No,La Candelaria,#1019,10
+2011-12-03 00:00:00-05:00,Hombre,25,Arma de fuego,Caribe,#0517,5
+2011-12-03 19:30:00-05:00,Hombre,56,Arma de fuego,La Pilarica,#0706,7
+2011-12-03 12:13:00-05:00,Sin dato,-1,Sin dato,La Floresta,#1205,12
+2011-12-03 13:30:00-05:00,Hombre,31,No,La Candelaria,#1019,10
+2011-12-04 21:00:00-05:00,Hombre,24,Arma cortopunzante,Barrio Colón,#1013,10
+2011-12-04 03:00:00-05:00,Hombre,29,Arma de fuego,Los Colores,#1114,11
+2011-12-04 23:00:00-05:00,Hombre,22,Arma cortopunzante,Robledo,#0717,7
+2011-12-04 20:00:00-05:00,Hombre,21,Arma cortopunzante,Robledo,#0717,7
+2011-12-04 21:00:00-05:00,Hombre,24,Arma cortopunzante,Barrio Colón,#1013,10
+2011-12-05 11:30:00-05:00,Mujer,32,No,Villa Nueva,#1018,10
+2011-12-05 19:30:00-05:00,Hombre,49,Arma de fuego,Buenos Aires,#0907,9
+2011-12-05 19:00:00-05:00,Hombre,41,Arma de fuego,Prado,#1001,10
+2011-12-05 21:05:00-05:00,Hombre,63,Arma de fuego,Villa Hermosa,#0801,8
+2011-12-05 21:00:00-05:00,Hombre,22,Arma de fuego,San Miguel,#0803,8
+2011-12-05 20:10:00-05:00,Hombre,37,Arma de fuego,Santander,#0601,6
+2011-12-05 20:45:00-05:00,Mujer,25,Arma de fuego,Los Colores,#1114,11
+2011-12-05 06:30:00-05:00,Mujer,45,Arma de fuego,Los Pinos,#1203,12
+2011-12-05 23:50:00-05:00,Mujer,32,Arma de fuego,Rosales,#1602,16
+2011-12-05 14:00:00-05:00,Mujer,45,Arma de fuego,San Bernardo,#1605,16
+2011-12-05 05:30:00-05:00,Hombre,20,Arma de fuego,Manrique Central No.1,#0409,4
+2011-12-05 11:30:00-05:00,Mujer,32,No,Villa Nueva,#1018,10
+2011-12-06 18:10:00-05:00,Mujer,73,Arma cortopunzante,San Benito,#1006,10
+2011-12-06 12:50:00-05:00,Mujer,20,No,San Pedro,#0408,4
+2011-12-06 11:30:00-05:00,Hombre,24,Arma de fuego,Universidad de Antioquia,#Inst_11,4
+2011-12-06 21:30:00-05:00,Hombre,24,Arma de fuego,Boston,#1016,10
+2011-12-06 23:35:00-05:00,Hombre,28,Arma de fuego,San Isidro,#0402,4
+2011-12-06 21:15:00-05:00,Hombre,58,Arma de fuego,Nueva Villa de la Iguaná,#0725,7
+2011-12-06 13:30:00-05:00,Hombre,36,Arma de fuego,Las Granjas,#0302,3
+2011-12-06 17:20:00-05:00,Mujer,39,Arma de fuego,Los Ángeles,#1017,10
+2011-12-06 11:00:00-05:00,Hombre,27,Arma de fuego,Las Acacias,#1109,11
+2011-12-06 09:50:00-05:00,Hombre,33,Arma de fuego,U.D. Atanasio Girardot,#Inst_14,11
+2011-12-06 21:00:00-05:00,Mujer,35,Arma cortopunzante,Estación Villa,#1005,10
+2011-12-06 15:30:00-05:00,Hombre,23,Arma de fuego,Guayabal,#1510,15
+2011-12-06 14:00:00-05:00,Hombre,40,Arma de fuego,Belencito,#1311,13
+2011-12-06 17:00:00-05:00,Hombre,25,Arma de fuego,Los Conquistadores,#1105,11
+2011-12-07 00:10:00-05:00,Hombre,22,Arma cortopunzante,Villa Nueva,#1018,10
+2011-12-07 10:50:00-05:00,Hombre,38,Objeto contundente,La Candelaria,#1019,10
+2011-12-07 18:50:00-05:00,Hombre,48,No,Villa Nueva,#1018,10
+2011-12-07 04:45:00-05:00,Hombre,22,Arma cortopunzante,Manila,#1419,14
+2011-12-07 04:30:00-05:00,Hombre,35,Arma de fuego,Aranjuez,#0413,4
+2011-12-07 11:30:00-05:00,Hombre,40,Arma de fuego,Boston,#1016,10
+2011-12-07 11:00:00-05:00,Hombre,33,Sin dato,La Candelaria,#1019,10
+2011-12-07 02:30:00-05:00,Hombre,22,Arma de fuego,Estadio,#1113,11
+2011-12-07 15:00:00-05:00,Hombre,22,Arma de fuego,Córdoba,#0709,7
+2011-12-07 10:50:00-05:00,Hombre,38,Objeto contundente,La Candelaria,#1019,10
+2011-12-08 17:10:00-05:00,Hombre,59,Arma cortopunzante,La Candelaria,#1019,10
+2011-12-08 18:00:00-05:00,Hombre,27,Arma de fuego,Prado,#1001,10
+2011-12-08 07:45:00-05:00,Mujer,30,No,Naranjal,#1103,11
+2011-12-08 12:40:00-05:00,Mujer,23,No,Doce de Octubre No.2,#0603,6
+2011-12-08 17:10:00-05:00,Hombre,59,Arma cortopunzante,La Candelaria,#1019,10
+2011-12-09 14:20:00-05:00,Mujer,21,No,Villa Nueva,#1018,10
+2011-12-09 11:20:00-05:00,Mujer,28,Arma cortopunzante,San Javier No.2,#1308,13
+2011-12-09 11:00:00-05:00,Hombre,17,Arma de fuego,Altavista,#1613,16
+2011-12-09 00:00:00-05:00,Mujer,19,No,La Candelaria,#1019,10
+2011-12-09 19:00:00-05:00,Mujer,28,Arma cortopunzante,Prado,#1001,10
+2011-12-09 16:45:00-05:00,Hombre,27,Arma de fuego,Alfonso López,#0514,5
+2011-12-10 15:30:00-05:00,Hombre,49,No,Santa Fé,#1504,15
+2011-12-10 14:45:00-05:00,Hombre,24,Arma de fuego,Pedregal,#0604,6
+2011-12-10 10:00:00-05:00,Mujer,33,Arma cortopunzante,Villa Nueva,#1018,10
+2011-12-10 13:25:00-05:00,Hombre,33,Arma de fuego,Kennedy,#0607,6
+2011-12-10 15:40:00-05:00,Sin dato,-1,Sin dato,Los Conquistadores,#1105,11
+2011-12-10 13:19:00-05:00,Sin dato,-1,Arma de fuego,La Floresta,#1205,12
+2011-12-10 14:45:00-05:00,Hombre,24,Arma de fuego,Pedregal,#0604,6
+2011-12-10 14:45:00-05:00,Hombre,24,Arma de fuego,Pedregal,#0604,6
+2011-12-11 00:15:00-05:00,Mujer,23,No,Calle Nueva,#1011,10
+2011-12-11 09:00:00-05:00,Sin dato,-1,Sin dato,Los Conquistadores,#1105,11
+2011-12-12 21:50:00-05:00,Hombre,21,Objeto contundente,Sevilla,#0407,4
+2011-12-12 04:15:00-05:00,Hombre,24,Arma cortopunzante,Barrio Colón,#1013,10
+2011-12-12 15:00:00-05:00,Hombre,23,Arma cortopunzante,La Pilarica,#0706,7
+2011-12-12 17:00:00-05:00,Sin dato,-1,Sin dato,La Floresta,#1205,12
+2011-12-12 15:00:00-05:00,Hombre,23,Arma cortopunzante,La Pilarica,#0706,7
+2011-12-13 20:47:00-05:00,Hombre,25,Arma cortopunzante,Barrio Colón,#1013,10
+2011-12-13 16:05:00-05:00,Hombre,30,No,La Pradera,#1306,13
+2011-12-13 12:00:00-05:00,Mujer,26,No,Buenos Aires,#0907,9
+2011-12-13 22:50:00-05:00,Mujer,30,No,La Florida,#1417,14
+2011-12-13 20:30:00-05:00,Hombre,48,Sin dato,Naranjal,#1103,11
+2011-12-13 05:00:00-05:00,Hombre,69,Arma de fuego,Facultad de Minas U. Nal,#Inst_5,7
+2011-12-13 07:40:00-05:00,Sin dato,-1,Arma de fuego,Los Conquistadores,#1105,11
+2011-12-13 05:00:00-05:00,Hombre,69,Arma de fuego,Facultad de Minas U. Nal,#Inst_5,7
+2011-12-14 16:30:00-05:00,Hombre,51,Arma de fuego,Manrique Central No.1,#0409,4
+2011-12-14 13:00:00-05:00,Hombre,40,Arma cortopunzante,La Candelaria,#1019,10
+2011-12-14 15:40:00-05:00,Hombre,36,Arma de fuego,Barrio Caycedo,#0906,9
+2011-12-15 19:10:00-05:00,Hombre,34,Arma de fuego,Los Ángeles,#1017,10
+2011-12-15 23:00:00-05:00,Mujer,40,No,La Candelaria,#1019,10
+2011-12-15 15:00:00-05:00,Hombre,27,Arma de fuego,Manrique Central No.1,#0409,4
+2011-12-15 21:00:00-05:00,Hombre,25,Arma de fuego,Alejandro Echavarría,#0905,9
+2011-12-15 21:30:00-05:00,Hombre,42,No,La Candelaria,#1019,10
+2011-12-15 19:10:00-05:00,Hombre,34,Arma de fuego,Los Ángeles,#1017,10
+2011-12-16 08:10:00-05:00,Mujer,39,No,Villa Nueva,#1018,10
+2011-12-16 18:30:00-05:00,Hombre,17,No,Manila,#1419,14
+2011-12-17 00:00:00-05:00,Hombre,27,Arma de fuego,Bosques de San Pablo,#0707,7
+2011-12-18 11:50:00-05:00,Hombre,23,No,Versalles No.1,#0309,3
+2011-12-19 10:30:00-05:00,Mujer,38,No,Prado,#1001,10
+2011-12-19 22:10:00-05:00,Hombre,18,Arma cortopunzante,San Benito,#1006,10
+2011-12-19 22:40:00-05:00,Hombre,58,No,San Diego,#1020,10
+2011-12-19 22:10:00-05:00,Hombre,18,Arma cortopunzante,San Benito,#1006,10
+2011-12-20 20:30:00-05:00,Mujer,32,Arma cortopunzante,Rosales,#1602,16
+2011-12-21 13:14:00-05:00,Hombre,27,No,San Benito,#1006,10
+2011-12-21 14:40:00-05:00,Hombre,35,Objeto contundente,Bomboná No.1,#1015,10
+2011-12-21 20:10:00-05:00,Hombre,47,Arma de fuego,Santa Fé,#1504,15
+2011-12-21 21:20:00-05:00,Hombre,34,Arma cortopunzante,Barrio Colón,#1013,10
+2011-12-21 01:15:00-05:00,Mujer,44,Arma de fuego,Barrio Cristóbal,#1210,12
+2011-12-21 23:15:00-05:00,Hombre,44,Arma cortopunzante,Sucre,#0809,8
+2011-12-22 18:35:00-05:00,Hombre,35,No,Barrio Colón,#1013,10
+2011-12-22 02:30:00-05:00,Hombre,60,Arma de fuego,San Miguel,#0803,8
+2011-12-22 13:40:00-05:00,Hombre,35,No,La Alpujarra,#Inst_16,10
+2011-12-23 15:40:00-05:00,Hombre,47,No,La Candelaria,#1019,10
+2011-12-23 14:05:00-05:00,Hombre,47,Arma de fuego,Los Pinos,#1203,12
+2011-12-23 09:30:00-05:00,Mujer,20,Objeto contundente,Aranjuez,#0413,4
+2011-12-24 03:00:00-05:00,Hombre,21,Arma cortopunzante,La Candelaria,#1019,10
+2011-12-24 22:00:00-05:00,Hombre,18,No,Castilla,#0511,5
+2011-12-24 14:15:00-05:00,Hombre,38,Arma de fuego,San Bernardo,#1605,16
+2011-12-26 16:15:00-05:00,Hombre,65,Arma de fuego,San Lucas,#1412,14
+2011-12-26 16:15:00-05:00,Hombre,65,Arma de fuego,San Lucas,#1412,14
+2011-12-28 23:20:00-05:00,Hombre,44,Arma cortopunzante,Sevilla,#0407,4
+2011-12-30 10:45:00-05:00,Mujer,31,Arma de fuego,Campo Valdés No.1,#0410,4
+2011-12-31 00:30:00-05:00,Mujer,28,Arma cortopunzante,Barrio Colón,#1013,10
+2011-12-31 05:50:00-05:00,Hombre,28,No,La Candelaria,#1019,10
+2011-12-31 11:30:00-05:00,Hombre,61,No,La Candelaria,#1019,10
+2011-12-31 05:50:00-05:00,Hombre,28,No,La Candelaria,#1019,10
+2011-12-31 05:50:00-05:00,Hombre,28,No,La Candelaria,#1019,10
